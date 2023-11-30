@@ -10,7 +10,6 @@ Liquidity Inducement Trading Journal
 
 
 
-# Markdown
     ---
     output: pdf_document
     ---
