@@ -1,4 +1,3 @@
-# Markdown
 # LIT-Trading-Journal
 Liquidity Inducement Trading Journal
 
@@ -10,14 +9,8 @@ Liquidity Inducement Trading Journal
 [https://www.instagram.com/mohammad_dfx/]  
 
 
-
-    ---
-    output: pdf_document
-    ---
-    Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
-
-
-
-    ```{=latex}
-    \textcolor{red}{your text here}
-    ```    
+\documentclass{article}
+\begin{document}
+First document. This is a simple example, with no 
+extra parameters or packages included.
+\end{document}
