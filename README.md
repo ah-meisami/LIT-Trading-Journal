@@ -1,3 +1,4 @@
+# Markdown
 # LIT-Trading-Journal
 Liquidity Inducement Trading Journal
 
@@ -17,7 +18,6 @@ Liquidity Inducement Trading Journal
 
 
 
-  # Markdown
     ```{=latex}
     \textcolor{red}{your text here}
     ```    
