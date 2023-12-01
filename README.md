@@ -1,6 +1,9 @@
 # LIT-Trading-Journal
 Liquidity Inducement Trading Journal
 
+**number one**
+[https://lit-trading.com/]
+
 **I'm a nightmare ... wake up ...**
 [https://www.instagram.com/borna_fx/]
 
@@ -9,4 +12,3 @@ Liquidity Inducement Trading Journal
 [https://www.instagram.com/mohammad_dfx/]  
 
 
-$$\lim_{x \to 0^+} \dfrac{1}{x} = \infty$$
