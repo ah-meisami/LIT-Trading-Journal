@@ -402,3 +402,151 @@ smart-money-footprint:
 2. break of structure
 3. return to OTE
 ------------------------------------------------
+
+------------------------------------------------
+[17] [1minute-intraday-mastery]
+🔴 **Origin of Demand\Supply**
+🔴 **Decisive of Demand\Supply**
+
+🟡 Scenario 1
+1. HTF Decisive of Supply vs. HTF Origin of Supply
+2. LTF Flip Zone
+3. LTF Liquidity Grab
+4. LTF Order Block Formation
+5. LTF BoS
+6. LTF Return To Order Block
+7. Expecting same confirmation on RTO
+
+**Demand Failure Transfers Power to the Supply, that caused the Failure.** DFTPS
+**ُSupply Failure Transfers Power to the Demand, that caused the Failure.** SFTPD
+
+🟡 Scenario 2
+My Expectation at this level:
+ 1. liquidity level, have been taking 
+ 2. demand level, hold the price
+Why!? 
+ 1. already we have grab on liquidity
+ 2. BoS
+Result:
+ 1. EQL is just an inducement leg that should be taking out
+ 2. So when the price reach to this level I enter the trade aggressively
+ 3. SL is below the demand level
+ 4. TP is last point of supply inside the BoS 
+ 
+ **Return to Last Point of Supply inside the BoS** RT-LPS
+ **Return to Last Point of Demand inside the BoS** RT-LPD
+
+🟡 Scenario 3
+1. nice liquidity grab
+2. but failed to shift BoS
+3. demand Order Flow still in play
+
+🟡 Scenario 4
+1. there is not a nice liquidity grab
+2. return to last point of buy had been mitigated
+3. demand order flow was taking out
+4. failed demand order flow automatically transfers power to supply level that caused the failure
+
+**Return to Last Point of Buy**         RT-LPB
+**Return to Last Point Of Sell**        RT-LPS
+**Return to Last Point Of Internal Liquidity**   RT-LPIL
+
+**transfers power from demand to supply level that caused the failure**
+**transfers power from supply to demand level that caused the failure**
+
+🟡 Scenario 5
+1. nice liquidity grab
+2. expecting BoS but there is no BoS
+3. ????
+
+**failed demand order flow** FDOF 
+**failed supply order flow** FSOF
+
+**respected demand order flow** RDOF 
+**respected supply order flow** RSOF 
+
+**mitigated demand order flow** MDOF 
+**mitigated supply order flow** MSOF 
+
+when price begins to give us internal-bullish-intent, ite target is external-liquidity
+
+**internal-bullish-intent** 
+**internal-bearish-intent**
+
+🟡 Scenario 6 [22:00]
+1. nice grab-on-liquidity
+2. tap into last-point-of-buy
+3. cover the imbalance (FVG)
+4. shift the structure
+5. actual break of structure
+
+🟡 Scenario 7 [25:00]
+1. nice grab-on-liquidity
+2. tap into last-point-of-demand
+3. it shows that the demand order flow is intact
+4. this wick grab-liquidity =>> means that it has money on it
+
+**the supply that sponsored the failure becomes the flip-zone**
+
+🟡 Scenario 8 [31:13]
+1. nice SSL grab-on-liquidity
+2. +BoS
+3. expecting expansion from RTO
+4. but failed to happen and create a flip-zone [failed-level-of-demand] [transfer-power-to-the-supply-caused-the-failure]
+5. asap price broke the demand level, came back immediately to mitigate the supply before drop.
+6. return to last-point-of-institutional-buys PLUS return to FVG
+7. price has to back to this level to give a chance to composite men exit their positions at break-even
+
+**composite men** [https://medium.com/@Blocksavant/composite-man-ca18c9d2d5a5] 
+**Wyckoff rules**
+1. the market never behave in the same way twice. 
+2. context is everything in the financial markets.
+
+🟡 Scenario 9 [32:00]
+1. nice SSL grab-on-liquidity
+2. +BoS
+3. RTO
+------------------------------------------------
+
+------------------------------------------------
+[18] [1minute-intraday-mastery]
+
+You should quickly be able to spot, when Grab-On-Liquidity, becomes Shift-In-Structure.
+You should quickly be able to spot, when Shift-In-Structure, becomes Grab-On-Liquidity.
+Every Shift-In-Structure needs a clear Grab-On-Liquidity
+
+last point of confluence
+new level of inducement
+internal inducement levels
+
+
+🔴 **Setup Trap = Inducement** 
+🔴 1. trade, setup without logic 
+🔴 2. trade, only based on price forming an Entry Model
+🔴 3. Inducement, invite you enter the trade,when is not time.
+🔴 4. Liquidity, throw out you out of the trade,before time.
+
+🟡 1. Inducement, invite you enter the trade,BEFORE time.
+🟡 2. Liquidity, throw out you out of the trade,BEFORE time.
+
+💚 Failed Supply\Demand form Flip-Zone
+💚 When price come back to Flip-Zone it has to be mitigated despite of GoL & SiS
+
+**Indecision Candle**
+1. after decision was made 
+2. all participants agree to sell price
+3. when price came back to it there is no need for price to move all the body of candle
+------------------------------------------------
+
+------------------------------------------------
+[28] [Price-Story] [Engagement-Logic]
+
+- Clear Transfer-of-Forms (ToF)
+- I am looking for more Buy-Setup
+- I am looking for corrective Sell-Setup [Counter-Trend-Sell]
+- Why the 15minute gives the daily range !? 
+- because it is impossible for price to fill, whole of that range, immediately.
+
+internal-GoL + internal-SiS == Confirm next DOL is external-LIQ
+
+------------------------------------------------
