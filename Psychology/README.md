@@ -1,0 +1,13 @@
+[https://timingresearch.com/]
+
+----------------------------------------------------
+⏰ Synergy Traders #48: The Secret To Emotional Control In Trading with Agnieszka Wood
+[https://www.youtube.com/watch?v=8KD2mAQALMs]
+----------------------------------------------------
+
+----------------------------------------------------
+Synergy Traders #38.05: 
+Master Yourself. Master Your Trades. 
+Method & Mindset: The Trading Process with Leslie Jouflas, CMT of TradingLiveOnline.com
+[https://www.youtube.com/watch?v=8KD2mAQALMs]
+----------------------------------------------------

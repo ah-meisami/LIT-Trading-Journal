@@ -548,5 +548,42 @@ internal inducement levels
 - because it is impossible for price to fill, whole of that range, immediately.
 
 internal-GoL + internal-SiS == Confirm next DOL is external-LIQ
+------------------------------------------------
 
+
+------------------------------------------------
+[19] [EJ-recap] 
+
+Failed Demand transfer power to Supply that broke the demand
+
+
+1.1. Level of S\D 
+1.2. Respected S\D
+1.3. Violated (Failed) S\D
+1.4. Sponsored (Responsible) Failure of S\D (POI)
+
+[12:08]
+3.1. Supply
+3.2. Inducement (Engineering-Liquidity)
+3.3. Tap
+3.3. Drop
+
+[19:36]
+**when we have 2 setup: bullish-setup and bearish-setup, any of them that plays first, it comes stronger than the other.**
+
+[20:40]
+**if after BoS, price came back to the demand level first, then it is very possible to have seen a bullish move happen.**
+**but because that failed to hold, the area that mitigated first has the upper hand.**
+------------------------------------------------
+
+------------------------------------------------
+[20] [recap] 
+**Concept: Asian Range Manipulation**
+
+[05:19]
+1. Asian Low is broken
+2. BoS
+3. Supposed to begin to look out Asian High to be taking out as well
+4. filling FVG
+5. mitigate the OB that was responsible for BoS
 ------------------------------------------------
