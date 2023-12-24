@@ -11,3 +11,7 @@ Psycho-Cybernetics
 [https://en.wikipedia.org/wiki/Psycho-Cybernetics]
 [https://www.youtube.com/watch?v=l9nsiJ8zWWk]
 ----------------------------------------------------
+
+
+The Secrets of Emotion Free Trading Vol 1 [https://www.youtube.com/watch?v=M3ewjdC6Sk4]
+The Secrets of Emotion Free Trading Vol 2 [https://www.youtube.com/watch?v=9wgKhmiXGkE]
