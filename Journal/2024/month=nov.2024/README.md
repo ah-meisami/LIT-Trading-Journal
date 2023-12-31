@@ -1,0 +1,1 @@
+[https://www.forexfactory.com/calendar?month=nov.2024]
