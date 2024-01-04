@@ -1,5 +1,7 @@
 ------------------------------------------
 [https://www.amazon.com/Implicit-Mind-Cognitive-Architecture-Ethics/dp/0190633727]
+[https://www.youtube.com/watch?v=9vXQxchsDCI]
+
 ------------------------------------------
 
 ------------------------------------------
@@ -23,3 +25,23 @@ The Art of Engaging Targets:
 ------------------------------------------
 
 
+
+------------------------------------------
+Self-Regulation vs. Self-Control
+[https://self-reg.ca/self-regulation-vs-self-control/]
+Implicit-Mind => I Want To
+Explicit-Mind => I Have To
+Temptation
+------------------------------------------
+
+[https://positivepsychology.com/self-regulation/]
+
+
+
+1. Techniques
+   1.1 Rote Practice
+   1.2 Pre-Commitment
+   1.3 Context Regulation
+
+
+png reference [https://www.facebook.com/photo/?fbid=130761159110981&set=a.119356910251406]   
