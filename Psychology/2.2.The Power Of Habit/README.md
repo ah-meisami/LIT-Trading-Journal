@@ -31,10 +31,6 @@ Habit Formation [https://fastercapital.com/content/Habit-Formation--Building-Bet
  
 
 
------------------------------------------------------------------
-**میراث آیشمن** [https://www.youtube.com/watch?v=S9aY0TQLfu8]
-
------------------------------------------------------------------
 
 
 
