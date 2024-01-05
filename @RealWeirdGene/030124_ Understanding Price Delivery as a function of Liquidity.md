@@ -8,3 +8,5 @@ C. IFC
 D. Re-Accumulation 
 E. The Point of Mass Psychological Shift 🔴
 ------------------------------------------------------------------------------------
+
+Example Use case [https://www.tradingview.com/x/hvY2Iw6O/]
