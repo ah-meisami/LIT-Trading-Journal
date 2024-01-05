@@ -12,3 +12,6 @@ Liquidity Inducement Trading Journal
 [https://www.instagram.com/mohammad_dfx/]  
 
 
+
+ICT Core Content Notes (All months)
+[https://arjoio.notion.site/arjoio/ICT-Core-Content-Notes-All-months-7ccee3fddff34d0cbb103f7c164ea9e1]
