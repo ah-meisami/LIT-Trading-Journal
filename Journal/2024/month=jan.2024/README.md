@@ -65,7 +65,7 @@ Long-Setup after NY 09:30 - SOC [https://www.tradingview.com/x/38kKAzEj/] 🟢
 **2024.01.05**
 🔴 don't force a trade-setup
 [https://www.tradingview.com/x/hbTv42sZ/] 1. Gold reaches to HTF objectives and enter the consolidation state 
-[https://www.tradingview.com/x/RD3ssDOb/] 2. It is time for DXY to enter expansion, especially HTF objective DVIB not meet yet.
+[https://www.tradingview.com/x/RD3ssDOb/] 2.  DXY time to enter expansion, especially HTF objective (DVIB) not meet yet.
 [https://www.tradingview.com/x/d3BGxFix/] 3. EURGBP tells us which one is better for SHORT (EUR or GBP) !? 
 [https://www.tradingview.com/x/II6uOKkC/] 4. EUR is weaker, So it has a better performance on SHORT. 
 [https://www.tradingview.com/x/2HuZ4HT2/] 5. GBP has a better and clearer setup for SHORT. (Respecting -OF, clear EQL) 
