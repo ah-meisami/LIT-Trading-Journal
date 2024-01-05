@@ -27,8 +27,50 @@ Finding setup after business completion even it's a CounterTrend Setup [https://
 
 ------------------------------------------------------------
 **2024.01.03**
-🟢  I was thinking today is NOT repeating the previous day setup ( 2023.12.28 - 2024.01.02 )
+🟢  I was thinking, today is NOT repeating the previous day setup ( 2023.12.28 - 2024.01.02 ) in London Open Session
 Overall [https://www.tradingview.com/x/mz2FHBs4/]
 Source of the curve [https://www.tradingview.com/x/YZBS8Iha/] 
 Destination of the curve [https://www.tradingview.com/x/uzNRTgyV/] 
 ------------------------------------------------------------
+
+------------------------------------------------------------
+**2024.01.04**
+🟢  Previous Days, we have speed movement in London Open Session. 
+    So, Today is not supposed to have the same speed in London Session
+
+🟢 instead of forcing myself to find a setup in NYAM session, 
+    it was better to analyze price at SOC and find IFC, DOB, EOB, LQD.
+
+Overall [https://www.tradingview.com/x/5sfCWEIB/]
+HTF Daily +OB - SOC [https://www.tradingview.com/x/DsSI9fuN/]
+HTF Daily +OB - DOC [https://www.tradingview.com/x/igoLDu00/]
+HTF Daily +OB - DOC [https://www.tradingview.com/x/CzsjSKG8/] 🟡 Grab on LQD in HTF +OB makes Strong Low
+
+Short-Setup after NY 05:30 [https://www.tradingview.com/x/MURaEdjw/]
+Short-Setup after NY 05:30 - SOC [https://www.tradingview.com/x/N03TYtyj/]
+Short-Setup after NY 05:30 - DOC [https://www.tradingview.com/x/QlG7ldsN/]
+
+Long-Setup after NY 09:30 - DOC [https://www.tradingview.com/x/aZFdS0Wf/]
+Long-Setup after NY 09:30 - SOC [https://www.tradingview.com/x/V55oI3KF/] 
+Long-Setup after NY 09:30 - DOC [https://www.tradingview.com/x/n27xDiDy/] 🟢
+Long-Setup after NY 09:30 - SOC [https://www.tradingview.com/x/38kKAzEj/] 🟢
+
+ - Why it is not supposed for price to go below this low !? 🔴
+ - Maybe, this is the leg who makes BOS-leg
+ - Maybe, this is the leg after the IDM-leg who makes the Strong Low 
+ - So, the OB inside the BOS-leg is our POI for entry
+------------------------------------------------------------
+
+
+
+Acronyms:
+SOC = Source of the curve 
+DOC = Destination of the curve 
+
+BOS-leg = Break of structure leg
+IDM-leg = inducement leg
+
+IFC = Inefficiency
+DOB = Decisional Order Block
+EOB = Extreme Order Block
+LQD = Liquidity
