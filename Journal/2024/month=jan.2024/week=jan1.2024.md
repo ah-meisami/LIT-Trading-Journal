@@ -63,6 +63,7 @@ Long-Setup after NY 09:30 - SOC [https://www.tradingview.com/x/38kKAzEj/] 🟢
 
 ------------------------------------------------------------
 **2024.01.05**
+🟢 before High Impact New Day it is not a good day  for trade? Why !? making setup
 🔴 don't force a trade-setup
 [https://www.tradingview.com/x/hbTv42sZ/] 1. Gold reaches to HTF objectives and enter the consolidation state 
 [https://www.tradingview.com/x/RD3ssDOb/] 2.  DXY time to enter expansion, especially HTF objective (DVIB) not meet yet.
