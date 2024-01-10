@@ -1,6 +1,6 @@
 🟡 [https://www.forexfactory.com/calendar?month=jan.2024]
 🟡 [https://www.forexfactory.com/calendar?week=jan1.2024]
-🟡 [https://www.forexfactory.com/calendar?week=jan8.2024]
+🔴 [https://www.forexfactory.com/calendar?week=jan8.2024]
 🟡 [https://www.forexfactory.com/calendar?week=jan15.2024]
 🟡 [https://www.forexfactory.com/calendar?week=jan22.2024]
 
@@ -19,3 +19,26 @@
 [https://www.tradingview.com/x/qlf4VC6W/] EU, Daily, Unclear Bias, No Confluence with HTF 
 [https://www.tradingview.com/x/Kg6c1OAq/] EU, 4H, No Clear Setup
 ------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+🟡 **2024.01.09 Long-Setup NY 09:30**
+[https://www.tradingview.com/x/lVQ8U55U/] Overall
+[https://www.tradingview.com/x/XsB2E6mT/] DOC
+[https://www.tradingview.com/x/q8xOBncc/] SOC
+[https://www.tradingview.com/x/GkGn7W6q/] SOC
+[https://www.tradingview.com/x/0EPRundl/] Target Mitigate another OB in another SOC
+
+🟡 **2024.01.09 Short-Setup NY 10:00**
+[https://www.tradingview.com/x/tMdCC1FK/] Overall
+[https://www.tradingview.com/x/1nyZgz0S/] DOC
+[https://www.tradingview.com/x/3ljKfsjD/] SOC
+[https://www.tradingview.com/x/LJqIZdPh/] SOC
+
+🟡 **2024.01.10 Trapped Order Flow**
+[https://www.tradingview.com/x/JMoUy96B/] DXY, Trapped Order Flow
+------------------------------------------------------------
+
+
+[https://www.tradingview.com/x/......../]
