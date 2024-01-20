@@ -1,9 +1,4 @@
-🟡 [https://www.forexfactory.com/calendar?month=jan.2024]
-🟡 [https://www.forexfactory.com/calendar?week=jan1.2024]
-🔴 [https://www.forexfactory.com/calendar?week=jan8.2024]
-🟡 [https://www.forexfactory.com/calendar?week=jan15.2024]
-🟡 [https://www.forexfactory.com/calendar?week=jan22.2024]
-
+🟡 [https://www.forexfactory.com/calendar?week=jan8.2024]
 ------------------------------------------------------------
 **Weekly outlook and setups VOL 223 (08-12.01.2024) | FOREX, Indices** [https://www.youtube.com/watch?v=Dy3ZgbSZFs4]
 
@@ -38,7 +33,12 @@
 
 🟡 **2024.01.10 Trapped Order Flow**
 [https://www.tradingview.com/x/JMoUy96B/] DXY, Trapped Order Flow
+
+
+[https://www.forexfactory.com/calendar?day=jan11.2024] CPI 
+
+[https://www.forexfactory.com/calendar?day=jan12.2024] PPI 
+
+
+[https://www.tradingview.com/x/Aks57CG9/] Overall
 ------------------------------------------------------------
-
-
-[https://www.tradingview.com/x/......../]
