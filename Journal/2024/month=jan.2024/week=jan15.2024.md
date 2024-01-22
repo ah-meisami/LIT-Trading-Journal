@@ -8,6 +8,8 @@ FR [https://www.forexfactory.com/calendar?day=jan19.2024] - Prelim UoM Consumer 
 ------------------------------------------------------------
 
 🟢 I was in holiday for 3 days: from We to Fr
-🟢 I See a good setup on Th[13:30] on XAU but lack-of-confidence caused to miss the trade.
+🟢 I See a good setup on Th[13:30] on XAUUSD but lack-of-confidence caused to miss the trade.
 🟢 I have to prepare my-self for this situations with more study.
 
+[https://www.tradingview.com/x/TB0XQcE3/] XAUUSD[15m]
+[https://www.tradingview.com/x/SjSCnCWO/] XAUUSD[1m]
