@@ -6,3 +6,8 @@ WE [https://www.forexfactory.com/calendar?day=jan17.2024] - Retail SaleS
 TH [https://www.forexfactory.com/calendar?day=jan18.2024] - Unemployment Claims
 FR [https://www.forexfactory.com/calendar?day=jan19.2024] - Prelim UoM Consumer Sentiment
 ------------------------------------------------------------
+
+🟢 I was in holiday for 3 days: from We to Fr
+🟢 I See a good setup on Th[13:30] on XAU but lack-of-confidence caused to miss the trade.
+🟢 I have to prepare my-self for this situations with more study.
+
