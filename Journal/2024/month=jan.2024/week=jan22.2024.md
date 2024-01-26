@@ -21,6 +21,11 @@ FR [https://www.forexfactory.com/calendar?day=jan26.2024] - Core PCE Price Index
 ------------------------------------------------------------
 
 ------------------------------------------------------------
+🔥 Transfer Of Form : Transfer Power from one OB to another OB
+🟢 There is no need for price to go higher for mitigation
+🟢 look back for previous mitigated area
+🟢 after 3 mitigated OB it is low probability setup. Why? Because a new Trendline is formed.
+
 [https://www.tradingview.com/x/M3cPkviG/]
 [https://www.tradingview.com/x/GOcYXFQe/]
 [https://www.tradingview.com/x/I1yoMabn/]
