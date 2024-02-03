@@ -20,8 +20,8 @@
 🟢 [https://www.tradingview.com/x/KQV4nom3/] DXY LTF Multiple IDM
 🟢 [https://www.tradingview.com/x/Rslfw1Zp/] DXY HTF +Expansion
 
-🟡 [https://www.tradingview.com/x/EPZIlEQb/] XAU LTF
-🟡 [https://www.tradingview.com/x/4nHM7Do1/] XAU HTF
+🟡 [https://www.tradingview.com/x/EPZIlEQb/] XAU LTF SMT
+🟡 [https://www.tradingview.com/x/4nHM7Do1/] XAU HTF Cluster of PDLs
 ------------------------------------------------------------
 
 
