@@ -28,6 +28,12 @@
 ------------------------------------------------------------
 🔵 [https://www.forexfactory.com/calendar?day=feb05.2024] 
 🔴 [10:00] ISM Services PMI
+
+🟢 [https://www.tradingview.com/x/BiGH6u9g/] DXY HTF - Cluster of PDH
+🟢 [https://www.tradingview.com/x/tZUNBtET/] DXY LTF - Breakaway Gap
+
+🟡 [https://www.tradingview.com/x/DXazL0eW/] XAU HTF - SMT ? Clear SSL exist below SSL [1h]
+🟡 [https://www.tradingview.com/x/vg0hbEfp/] XAU LTF - Expansion Before Required IDM makes it weak
 ------------------------------------------------------------
 
 ------------------------------------------------------------
