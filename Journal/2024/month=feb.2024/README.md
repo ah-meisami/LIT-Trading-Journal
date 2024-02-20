@@ -11,7 +11,6 @@
 [https://twitter.com/theDrBanks/status/1752709928404340746] theDrBanks ShowOff
 ------------------------------------------------------------
 
-
 ------------------------------------------------------------
 🔵 [https://www.forexfactory.com/calendar?day=feb02.2024] 
 🔴 [08:30] Non-Farm Employment Change
@@ -23,7 +22,6 @@
 🟡 [https://www.tradingview.com/x/EPZIlEQb/] XAU LTF SMT
 🟡 [https://www.tradingview.com/x/4nHM7Do1/] XAU HTF Cluster of PDLs
 ------------------------------------------------------------
-
 
 ------------------------------------------------------------
 🔵 [https://www.forexfactory.com/calendar?day=feb05.2024] 
@@ -41,9 +39,33 @@
 🔴 [08:30] Unemployment Claims
 ------------------------------------------------------------
 
-
-
-
+------------------------------------------------------------
 🔵 [https://www.forexfactory.com/calendar?day=feb13.2024] 
 🔵 [https://www.forexfactory.com/calendar?day=feb15.2024] 
 🔵 [https://www.forexfactory.com/calendar?day=feb16.2024] 
+------------------------------------------------------------
+
+
+
+
+################################################################################################################################
+⚪ [MO] [https://www.forexfactory.com/calendar?day=feb19.2024] [Bank-Holiday]
+
+🔴 [TU] [https://www.forexfactory.com/calendar?day=feb20.2024] [CAD-08:30-CPI]
+
+🔴 [WE] [https://www.forexfactory.com/calendar?day=feb21.2024] [USD-14:00-FOMC]
+
+🔴 [TH] [https://www.forexfactory.com/calendar?day=feb22.2024] [EUR-03:15-PMI]  
+🔴 [TH] [https://www.forexfactory.com/calendar?day=feb22.2024] [EUR-03:30-PMI]
+🔴 [TH] [https://www.forexfactory.com/calendar?day=feb22.2024] [GBP-04:30-PMI]
+🔴 [TH] [https://www.forexfactory.com/calendar?day=feb22.2024] [USD-08:30-Unemployment]
+🔴 [TH] [https://www.forexfactory.com/calendar?day=feb22.2024] [USD-09:45-PMI]
+
+🔴 [FR] [https://www.forexfactory.com/calendar?day=feb23.2024] 
+
+
+
+################################################################################################################################
+
+
+
