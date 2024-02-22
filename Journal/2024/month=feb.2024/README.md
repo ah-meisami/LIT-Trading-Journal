@@ -80,5 +80,5 @@
 4. XAU makes IDM to be liquidate 
 5. XAU liquidation of IDM starts WE[19:30] (**Asia Session**)
 
-[https://www.tradingview.com/x/mcSoSyLL/] DXY & XAU = Real Divergence
+[https://www.tradingview.com/x/mcSoSyLL/] DXY & XAU = Real Divergencez
 ##################################################################################################
