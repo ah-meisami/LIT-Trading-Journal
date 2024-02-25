@@ -82,3 +82,33 @@
 
 [https://www.tradingview.com/x/mcSoSyLL/] DXY & XAU = Real Divergencez
 ##################################################################################################
+
+##################################################################################################
+[OrderFlow=Bullish] **asia (07:30)** 
+01. DatE[SRC] = SU
+02. DatE[DST] = MO
+03. TimE[SRC] = (NY 19:00) (IR 03:30) [https://www.tradingview.com/x/UO4M9Kqg/]
+04. TimE[DST] = (NY 02:30) (IR 11:00) [https://www.tradingview.com/x/JhZ5tYeK/]
+05. SesS[SRC] = Asia Open
+06. SesS[DST] = London Open
+07. LocA[SRC] = MMBM Reaccumulation
+08. LocA[DST] = SIBI CE [https://www.tradingview.com/x/nd46fyij/]
+09. ConF[SRC] = (BSL & SSL cleared completely with long wicks) + (1min OB is respected) + (1min FVG)
+10. ConF[DST] = ( IDM2 ) (Start of the week = Expecting Smaller moves)
+11. PriC[SRC] ~ 2014
+12. PriC[SRC] ~ 2023
+
+[OrderFlow=Bearish] **london (08:30)**
+01. DatE[SRC] = MO
+02. DatE[DST] = MO
+03. TimE[SRC] = (NY 02:30) (IR 11:00) [https://www.tradingview.com/x/KsTYbrMC/]
+04. TimE[DST] = (NY 11:00) (IR 19:30) [https://www.tradingview.com/x/3EM17Wo2/]
+05. SesS[SRC] = London Open
+06. SesS[DST] = London Close
+07. LocA[SRC] = SIBI CE
+08. LocA[DST] = Asia Original Consolidation
+09. ConF[SRC] = LTF BOS [https://www.tradingview.com/x/ytiFHLcP/]
+10. ConF[DST] = Speed
+11. PriC[SRC] ~ 2023 
+12. PriC[SRC] ~ 2014
+##################################################################################################
