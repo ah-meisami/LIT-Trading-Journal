@@ -1,1 +1,91 @@
+#################################################################################
 [https://www.forexfactory.com/calendar?month=mar.2024]
+🔴 High 🟠 Medium 🟡 Low ⚪ Bank Holiday
+#################################################################################
+
+
+[https://www.forexfactory.com/calendar?day=mar01.2024] FRI 🔴  [10:00]
+#################################################################################
+[https://www.forexfactory.com/calendar?day=mar04.2024] MON
+[https://www.forexfactory.com/calendar?day=mar05.2024] TUE 🔴 [10:00]
+[https://www.forexfactory.com/calendar?day=mar06.2024] WED 🔴 [08:15] [10:00]
+[https://www.forexfactory.com/calendar?day=mar07.2024] THU 🔴 [08:15] [10:00]
+[https://www.forexfactory.com/calendar?day=mar08.2024] FRI 🔴 [08:30] **NFP**
+#################################################################################
+[https://www.forexfactory.com/calendar?day=mar11.2024] MON
+[https://www.forexfactory.com/calendar?day=mar12.2024] TUE 🔴 [08:30] **CPI**
+[https://www.forexfactory.com/calendar?day=mar13.2024] WED
+[https://www.forexfactory.com/calendar?day=mar14.2024] THU 🔴 [08:30] **PPI**
+[https://www.forexfactory.com/calendar?day=mar15.2024] FRI 🔴 [08:30] [10:00]
+#################################################################################
+[https://www.forexfactory.com/calendar?day=mar18.2024] MON
+[https://www.forexfactory.com/calendar?day=mar19.2024] TUE
+[https://www.forexfactory.com/calendar?day=mar20.2024] WED 🔴 [14:00] [14:30] **Fund Rate**
+[https://www.forexfactory.com/calendar?day=mar21.2024] THU 🔴 [08:30] [09:45]
+[https://www.forexfactory.com/calendar?day=mar22.2024] FRI
+#################################################################################
+[https://www.forexfactory.com/calendar?day=mar25.2024] MON
+[https://www.forexfactory.com/calendar?day=mar26.2024] TUE 🔴 [10:00]
+[https://www.forexfactory.com/calendar?day=mar27.2024] WED
+[https://www.forexfactory.com/calendar?day=mar28.2024] THU 🔴 [08:30] [10:00]
+[https://www.forexfactory.com/calendar?day=mar29.2024] FRI 🔴 [08:30]
+#################################################################################
+
+#################################################################################
+**Wyckoff rules** 
+[https://medium.com/@Blocksavant/composite-man-ca18c9d2d5a5]
+1. the market never behave in the same way twice. 
+2. context is everything in the financial markets.
+#################################################################################
+
+#################################################################################
+**2024.03.01 XAUUSD**
+
+[https://www.tradingview.com/x/hUEiDInZ/] 
+- **Market Structure** formed base on HTF bullish order flow
+
+[https://www.tradingview.com/x/UTgGH1A3/] 
+- **Market Reality** Gap between **My Expectation** 
+- **Original Consolidation** validates the **Order Block** inside the **Main Structure** ⚠️
+
+[https://www.tradingview.com/x/Mce0YPso/] 
+- **Market Reality** Gap between **My Expectation** (previous week)
+
+[https://www.tradingview.com/x/SYXwicU4/]  
+- i have 2 winning trade based on following **Order Flow** in Thursday's London session 🔥
+
+[https://www.tradingview.com/x/3ASNz3ox/] 
+- **Weekly Profile** 
+- previous week expansion happens at Friday 05:00
+- so, most likely this week expansion towards the HTF OB is not happening at Friday
+
+
+----------------------
+[https://www.tradingview.com/x/SIyqMJTA/] **Time Validates The Market Gyration**
+Monday [London-Close]
+HTF[OB] 
+LTF[ENGLQD] 
+LTF[ClearLowerLow]
+AlgoCycle[Trap] completed
+AlgoCycle[BuildingLiquidity] started
+
+-----------
+Tuesday [London-Open] 
+HTF[ENGLQD] 
+LTF[BOS]
+HTF[High-is-Respected] 
+AlgoCycle[BuildingLiquidity] completed
+AlgoCycle[TakingLiquidity] started
+
+[https://www.tradingview.com/x/1Q8mHE1i/] ⚠️
+ Why at london close it is a Low-Probability to enter the building liquidity cycle?
+- because, base on the **Wyckoff rules**, market never behave in the same way twice. 
+
+-----------
+Wednesday [NewYork-Open]
+HTF[OB] 
+LTF[BOS]
+HTF[PDL-cleared] 
+AlgoCycle[Trap] completed
+AlgoCycle[TakingLiquidity] started
+#################################################################################
