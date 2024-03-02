@@ -88,4 +88,19 @@ LTF[BOS]
 HTF[PDL-cleared] 
 AlgoCycle[Trap] completed
 AlgoCycle[TakingLiquidity] started
+
+
+[https://www.tradingview.com/x/QtKPXIwf/] ⚠️
+- OB has potential to make BOS 
+- BOS has potential to validate OB
+
+[https://www.tradingview.com/x/cA3JYlvA/] ⚠️
+Why there is no need to go below this low!?
+Why there is no need to go below this low!?
+1. Time (NY 04:00) (at the end)
+2. Speed (no accumulation at the beginning)
+3. Below CE
+4. HTF Order Flow = bullish
+5. HTF High = SMT
+6. HTF 3 times mitigation = LRLR
 #################################################################################
