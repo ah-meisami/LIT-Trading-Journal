@@ -4,7 +4,7 @@ ___
   
 ##### [https://www.forexfactory.com/calendar?day=mar01.2024] `FRI` 🔴  [10:00]  
 ___    
-##### [header1](#header1) [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`    
+##### [mar04.2024](#mar04.2024) [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`    
 ##### [https://www.forexfactory.com/calendar?day=mar05.2024] `TUE` 🔴 [10:00]    
 ##### [https://www.forexfactory.com/calendar?day=mar06.2024] `WED` 🔴 [08:15] [10:00]    
 ##### [https://www.forexfactory.com/calendar?day=mar07.2024] `THU` 🔴 [08:15] [10:00]     
@@ -104,7 +104,7 @@ Why there is no need to go below this low!?
 ___    
   
 ___    
-## header1
+## mar04.2024
 
 ![The San Juan Mountains are beautiful!](https://www.tradingview.com/x/6HnCC5DC/ "San Juan Mountains")
 ___    
@@ -115,7 +115,7 @@ ___
 
 
 - [Hello World](#hello-world)
-  - [header1](#header1-1)
+  - [header1](#header1)
   - [header2](#header2)
 
 
