@@ -89,7 +89,7 @@ AlgoCycle[TakingLiquidity] started
 ___     
 ![img](https://www.tradingview.com/x/1Q8mHE1i/ "img") 
  ##### ⚠️ Why at london close it is a Low-Probability to enter the AlgoCycle[building-liquidity]?  
- #####     because, base on the **Wyckoff rules**, market never behave in the same way twice.   
+ #####     because, base on the *Wyckoff rules*, market never behave in the same way twice.   
 ___     
 ![img](https://www.tradingview.com/x/QtKPXIwf/ "img")     
 #####  ⚠️ - OB has potential to make BOS    
@@ -148,6 +148,11 @@ ___
 - SSL is cleared
 - clear Lower Low = Inducement Type 3
 - clear Lower Low at the beginning of New York Session is an Inducement
-- there is no need for price to go below +OB[15] (Smart Money Footprint)
+- Entry: there is no need for price to go below +OB[15] (Smart Money Footprint)
 ```   
+#####  ⚠️ all the conditions are validating to enter the bullish setup. 
+#####     but based on the *Wyckoff rules*: 
+###### 1. the market never behave in the same way twice.   
+#####     so be careful to hold the position for the long time and exit aggressive
+
 ___    
