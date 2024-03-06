@@ -1,3 +1,7 @@
+**Wyckoff rules** [https://medium.com/@Blocksavant/composite-man-ca18c9d2d5a5]  
+🟡 1. the market never behave in the same way twice.   
+🟡 2. context is everything in the financial markets.  
+
 ___    
 ###### [https://www.forexfactory.com/calendar?month=mar.2024] 🔵
 ___    
@@ -27,12 +31,6 @@ ___
 ##### [`mar27`](#mar27) [https://www.forexfactory.com/calendar?day=mar27.2024] `WED`    
 ##### [`mar28`](#mar28) [https://www.forexfactory.com/calendar?day=mar28.2024] `THU` 🔴 [08:30] [10:00]    
 ##### [`mar29`](#mar29) [https://www.forexfactory.com/calendar?day=mar29.2024] `FRI` 🔴 [08:30]    
-___    
-  
-##### **Wyckoff rules**  💚
-##### [https://medium.com/@Blocksavant/composite-man-ca18c9d2d5a5]  
-##### 1. the market never behave in the same way twice.   
-##### 2. context is everything in the financial markets.  
 ___    
 ## `mar01`
   
