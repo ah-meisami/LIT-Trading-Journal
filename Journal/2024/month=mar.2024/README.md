@@ -8,7 +8,7 @@
 - [Mar01 2024] (#mar01-2024)
 
 #################################################################################
-##### [https://www.forexfactory.com/calendar?day=mar04.2024] MON
+##### [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`
 [https://www.forexfactory.com/calendar?day=mar05.2024] TUE 🔴 [10:00]
 [https://www.forexfactory.com/calendar?day=mar06.2024] WED 🔴 [08:15] [10:00]
 [https://www.forexfactory.com/calendar?day=mar07.2024] THU 🔴 [08:15] [10:00]
