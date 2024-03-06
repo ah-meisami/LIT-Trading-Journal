@@ -103,12 +103,6 @@ Why there is no need to go below this low!?
 6. HTF 3 times mitigation = LRLR  
 ___    
   
-  
-[https://www.tradingview.com/x/6HnCC5DC/]    
-  
-[]    
-  
-
 ___    
 ![The San Juan Mountains are beautiful!](https://www.tradingview.com/x/6HnCC5DC/ "San Juan Mountains")
 ___    
