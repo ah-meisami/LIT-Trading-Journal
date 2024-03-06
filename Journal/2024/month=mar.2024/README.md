@@ -87,9 +87,9 @@ AlgoCycle[Trap] completed
 AlgoCycle[TakingLiquidity] started    
 ```
 ___     
-![img](https://www.tradingview.com/x/1Q8mHE1i/ "img") ⚠️  
- Why at london close it is a Low-Probability to enter the building liquidity cycle?  
-- because, base on the **Wyckoff rules**, market never behave in the same way twice.   
+![img](https://www.tradingview.com/x/1Q8mHE1i/ "img") 
+ ##### ⚠️ Why at london close it is a Low-Probability to enter the building liquidity cycle?  
+ #####     because, base on the **Wyckoff rules**, market never behave in the same way twice.   
 ___     
 ![img](https://www.tradingview.com/x/QtKPXIwf/ "img")     
 #####  ⚠️ - OB has potential to make BOS    
