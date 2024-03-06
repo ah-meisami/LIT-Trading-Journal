@@ -49,12 +49,14 @@ ___
 ${\color{blue}(Transfer \space Of \space From)}$
 ___         
 ![mar04](https://www.tradingview.com/x/3ASNz3ox/ "mar04")
-##### ⚠️ *My Expectation* based on *Weekly Profile**:  
+##### ⚠️ *My Expectation* based on *Weekly Profile*:  
 #####    - previous week expansion happens at Friday 05:00  
 #####    - so, most likely this week expansion towards the HTF OB is not happening at Friday  
 ##### ⚠️ *Market Reality* :  
-#####    - High Impact News on Friday
+#####    - We have High Impact News on Friday
 #####    - Now We are near the HTF objectives
+#####    - maybe it is not true to shift the market sentiment
+
 ___    
 ![mar04](https://www.tradingview.com/x/SIyqMJTA/ "mar04")
 **Time Validates The Market Gyration**  
