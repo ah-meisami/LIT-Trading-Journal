@@ -127,21 +127,21 @@ ___
 ```   
 
 ```c
-- HTF Order Flow = Bullish
-- HTF BISI[1h] = Real Support = In **Clear Up Trend** There is no need for price to go below BISI[1h]
-- HTF OB[1h] = Smart Money Footprint = Entry 
-- LTF Lower-Low = Inducement Type 3
-- LTF BOS (Higher-High) = wait for price to come back to OB[1h]
-- Expansion Time = LO
+- I took this trade 
+- clear up-channel is an inducement
+- this is a short-term trade
+- this is a counter trend trade
+- this trade happens at the beginning of New York session
 ```   
 
+![mar05](https://www.tradingview.com/x/zRkVZNrM/ "mar05")
 ##### [https://www.instagram.com/p/C4JfmzLsZwr/]
 ```c
-- HTF Order Flow = Bullish
-- HTF BISI[1h] = Real Support = In **Clear Up Trend** There is no need for price to go below BISI[1h]
-- HTF OB[1h] = Smart Money Footprint = Entry 
-- LTF Lower-Low = Inducement Type 3
-- LTF BOS (Higher-High) = wait for price to come back to OB[1h]
-- Expansion Time = LO
+- Alex Lera took this trade
+- exactly after I closed my trade in london session
+- SSL is cleared
+- clear Lower Low = Inducement Type 3
+- clear Lower Low at the beginning of New York Session is an Inducement
+- there is no need for price to go below +OB[15] (Smart Money Footprint)
 ```   
 ___    
