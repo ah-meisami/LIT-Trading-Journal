@@ -126,4 +126,21 @@ ___
 - Expansion Time = LO
 ```   
 
+```c
+- HTF Order Flow = Bullish
+- HTF BISI[1h] = Real Support = In **Clear Up Trend** There is no need for price to go below BISI[1h]
+- HTF OB[1h] = Smart Money Footprint = Entry 
+- LTF Lower-Low = Inducement Type 3
+- LTF BOS (Higher-High) = wait for price to come back to OB[1h]
+- Expansion Time = LO
+```   
+
+```c
+- HTF Order Flow = Bullish
+- HTF BISI[1h] = Real Support = In **Clear Up Trend** There is no need for price to go below BISI[1h]
+- HTF OB[1h] = Smart Money Footprint = Entry 
+- LTF Lower-Low = Inducement Type 3
+- LTF BOS (Higher-High) = wait for price to come back to OB[1h]
+- Expansion Time = LO
+```   
 ___    
