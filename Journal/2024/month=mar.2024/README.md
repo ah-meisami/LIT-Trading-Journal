@@ -45,7 +45,8 @@ ___
 ${\color{blue}(another \space usecase: \space from \space previous \space week)}$
 ___       
 ![mar04](https://www.tradingview.com/x/SYXwicU4/ "mar04")
-- i have 2 winning trade based on following **Order Flow** in Thursday's London session 🔥  
+##### 🔥 I have 2 winning trade based on following **Order Flow** in Thursday's London session 
+${\color{blue}(Transfer \space Of \space From)}$
   
 ![mar04](https://www.tradingview.com/x/3ASNz3ox/ "mar04")
 - **Weekly Profile**   
