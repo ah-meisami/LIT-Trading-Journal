@@ -5,7 +5,7 @@
 
 
 [https://www.forexfactory.com/calendar?day=mar01.2024] FRI 🔴  [10:00]
-- [mar01.2024] (#?day=mar01.2024)
+- [Mar01 2024] (#mar01-2024)
 #################################################################################
 [https://www.forexfactory.com/calendar?day=mar04.2024] MON
 [https://www.forexfactory.com/calendar?day=mar05.2024] TUE 🔴 [10:00]
@@ -40,7 +40,7 @@
 #################################################################################
 
 #################################################################################
-## ?day=mar01.2024
+## [Mar01 2024]
 
 [https://www.tradingview.com/x/hUEiDInZ/] 
 - **Market Structure** formed base on HTF bullish order flow
