@@ -1,5 +1,6 @@
-###### Wyckoff-Rules [https://medium.com/@Blocksavant/composite-man-ca18c9d2d5a5]  🟡🟡
+###### Wyckoff-Rules  🟡🟡
 ```c
+[https://medium.com/@Blocksavant/composite-man-ca18c9d2d5a5] 
 Wyckoff-Rules[1]: the market never behave in the same way twice.   
 Wyckoff-Rules[2]: context is everything in the financial markets.  
 ```
