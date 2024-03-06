@@ -113,11 +113,15 @@ Why there is no need to go below this low!?
 
 
 
-# 1. Installation  
-## 1.1. Minimum System Requirements  
-## 1.2. Prerequisites  
-### 1.2.1. Preparation of Database Server  
-### 1.2.2. Preparation of Other Servers  
-## 1.3. Installing – Single Server  
-## 1.4. Installing – Multi Server   
-### 1.4.1. Database Server 
+[1. Python](#1-python)
+[2. c++](#2-c)
+[3. c++11](#3-c11)
+[4. asp.net-core](#4-aspnet-core)
+
+# 1. Python
+
+# 2. c++
+
+# 3. c++11
+
+# 4. asp.net-core
