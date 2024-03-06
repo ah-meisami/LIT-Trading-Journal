@@ -126,6 +126,7 @@ ___
 - Expansion Time = LO
 ```   
 
+![mar05](https://www.tradingview.com/x/cJnX58u7/ "mar05")
 ```c
 - I took this trade 
 - clear up-channel is an inducement
