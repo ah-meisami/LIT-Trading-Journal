@@ -47,7 +47,7 @@ ${\color{blue}(another \space usecase: \space from \space previous \space week)}
 ___       
 ![img](https://www.tradingview.com/x/SYXwicU4/ "img")
 ##### 🔥 I have 2 winning trade based on following **Order Flow** in Thursday's London session 
-${\color{blue}(Transfer \space Of \space From)}$
+${\color{Red}(Transfer \space Of \space From)}$
 ___         
 ![img](https://www.tradingview.com/x/3ASNz3ox/ "img")
 ##### ⚠️ *My Expectation* based on *Weekly Profile*:  
