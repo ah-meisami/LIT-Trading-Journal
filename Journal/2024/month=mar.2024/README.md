@@ -34,20 +34,21 @@ ___
 ___    
 ## `mar01`
   
-[https://www.tradingview.com/x/hUEiDInZ/]   
+![mar04](https://www.tradingview.com/x/hUEiDInZ/ "mar04")
+
 - **Market Structure** formed base on HTF bullish order flow  
   
-[https://www.tradingview.com/x/UTgGH1A3/]   
+![mar04](https://www.tradingview.com/x/UTgGH1A3/ "mar04")
 - **Market Reality** Gap between **My Expectation**   
 - **Original Consolidation** validates the **Order Block** inside the **Main Structure** ⚠️  
   
-[https://www.tradingview.com/x/Mce0YPso/]   
+![mar04](https://www.tradingview.com/x/Mce0YPso/ "mar04")
 - **Market Reality** Gap between **My Expectation** (previous week)  
   
-[https://www.tradingview.com/x/SYXwicU4/]    
+![mar04](https://www.tradingview.com/x/SYXwicU4/ "mar04")
 - i have 2 winning trade based on following **Order Flow** in Thursday's London session 🔥  
   
-[https://www.tradingview.com/x/3ASNz3ox/]   
+![mar04](https://www.tradingview.com/x/3ASNz3ox/ "mar04")
 - **Weekly Profile**   
 - previous week expansion happens at Friday 05:00  
 - so, most likely this week expansion towards the HTF OB is not happening at Friday  
