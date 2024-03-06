@@ -106,7 +106,7 @@ ___
 
 ```c
 - HTF Order Flow = Bullish
-- HTF BISI[1h] = Real Support = In **Clear Up Trend** There is no need for price to go below BISI[1h]
+- HTF BISI[1h] = Real Support = In **Clear Up Trend** There is no need for price to go below BISI[1h] :heavy_dollar_sign:
 - HTF OB[1h] = Smart Money Footprint = Entry 
 - HTF Wick[Daily][CE] = Exit
 - LTF Lower-Low = Inducement Type 3
@@ -135,6 +135,7 @@ ___
 - Expansion Time = LO
 ```   
 
+##### [https://www.instagram.com/p/C4JfmzLsZwr/]
 ```c
 - HTF Order Flow = Bullish
 - HTF BISI[1h] = Real Support = In **Clear Up Trend** There is no need for price to go below BISI[1h]
