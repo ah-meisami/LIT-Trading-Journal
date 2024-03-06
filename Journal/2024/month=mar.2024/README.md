@@ -1,39 +1,37 @@
-#################################################################################
+#################################################################################  
 [https://www.forexfactory.com/calendar?month=mar.2024]
 🔴 High 🟠 Medium 🟡 Low ⚪ Bank Holiday
-#################################################################################
+#################################################################################  
 
 
 [https://www.forexfactory.com/calendar?day=mar01.2024] FRI 🔴  [10:00]
-- [Mar01 2024] (#mar01-2024)
+#################################################################################  
+##### [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`  
+[https://www.forexfactory.com/calendar?day=mar05.2024] TUE 🔴 [10:00]  
+[https://www.forexfactory.com/calendar?day=mar06.2024] WED 🔴 [08:15] [10:00]  
+[https://www.forexfactory.com/calendar?day=mar07.2024] THU 🔴 [08:15] [10:00]   
+[https://www.forexfactory.com/calendar?day=mar08.2024] FRI 🔴 [08:30] **NFP**    
+#################################################################################   
+[https://www.forexfactory.com/calendar?day=mar11.2024] MON  
+[https://www.forexfactory.com/calendar?day=mar12.2024] TUE 🔴 [08:30] **CPI**  
+[https://www.forexfactory.com/calendar?day=mar13.2024] WED  
+[https://www.forexfactory.com/calendar?day=mar14.2024] THU 🔴 [08:30] **PPI**  
+[https://www.forexfactory.com/calendar?day=mar15.2024] FRI 🔴 [08:30] [10:00]  
+#################################################################################  
+[https://www.forexfactory.com/calendar?day=mar18.2024] MON  
+[https://www.forexfactory.com/calendar?day=mar19.2024] TUE  
+[https://www.forexfactory.com/calendar?day=mar20.2024] WED 🔴 [14:00] [14:30] **Fund Rate**  
+[https://www.forexfactory.com/calendar?day=mar21.2024] THU 🔴 [08:30] [09:45]  
+[https://www.forexfactory.com/calendar?day=mar22.2024] FRI  
+#################################################################################  
+[https://www.forexfactory.com/calendar?day=mar25.2024] MON  
+[https://www.forexfactory.com/calendar?day=mar26.2024] TUE 🔴 [10:00]  
+[https://www.forexfactory.com/calendar?day=mar27.2024] WED  
+[https://www.forexfactory.com/calendar?day=mar28.2024] THU 🔴 [08:30] [10:00]  
+[https://www.forexfactory.com/calendar?day=mar29.2024] FRI 🔴 [08:30]  
+#################################################################################  
 
-#################################################################################
-##### [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`
-[https://www.forexfactory.com/calendar?day=mar05.2024] TUE 🔴 [10:00]
-[https://www.forexfactory.com/calendar?day=mar06.2024] WED 🔴 [08:15] [10:00]
-[https://www.forexfactory.com/calendar?day=mar07.2024] THU 🔴 [08:15] [10:00]
-[https://www.forexfactory.com/calendar?day=mar08.2024] FRI 🔴 [08:30] **NFP**
-#################################################################################
-[https://www.forexfactory.com/calendar?day=mar11.2024] MON
-[https://www.forexfactory.com/calendar?day=mar12.2024] TUE 🔴 [08:30] **CPI**
-[https://www.forexfactory.com/calendar?day=mar13.2024] WED
-[https://www.forexfactory.com/calendar?day=mar14.2024] THU 🔴 [08:30] **PPI**
-[https://www.forexfactory.com/calendar?day=mar15.2024] FRI 🔴 [08:30] [10:00]
-#################################################################################
-[https://www.forexfactory.com/calendar?day=mar18.2024] MON
-[https://www.forexfactory.com/calendar?day=mar19.2024] TUE
-[https://www.forexfactory.com/calendar?day=mar20.2024] WED 🔴 [14:00] [14:30] **Fund Rate**
-[https://www.forexfactory.com/calendar?day=mar21.2024] THU 🔴 [08:30] [09:45]
-[https://www.forexfactory.com/calendar?day=mar22.2024] FRI
-#################################################################################
-[https://www.forexfactory.com/calendar?day=mar25.2024] MON
-[https://www.forexfactory.com/calendar?day=mar26.2024] TUE 🔴 [10:00]
-[https://www.forexfactory.com/calendar?day=mar27.2024] WED
-[https://www.forexfactory.com/calendar?day=mar28.2024] THU 🔴 [08:30] [10:00]
-[https://www.forexfactory.com/calendar?day=mar29.2024] FRI 🔴 [08:30]
-#################################################################################
-
-#################################################################################
+#################################################################################  
 **Wyckoff rules** 
 [https://medium.com/@Blocksavant/composite-man-ca18c9d2d5a5]
 1. the market never behave in the same way twice. 
