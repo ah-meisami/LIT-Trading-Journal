@@ -32,23 +32,23 @@ ___
 ##### [`mar28`](#mar28) [https://www.forexfactory.com/calendar?day=mar28.2024] `THU` 🔴 [08:30] [10:00]    
 ##### [`mar29`](#mar29) [https://www.forexfactory.com/calendar?day=mar29.2024] `FRI` 🔴 [08:30]    
 ___    
-![mar04](https://www.tradingview.com/x/hUEiDInZ/ "mar04")
+![img](https://www.tradingview.com/x/hUEiDInZ/ "img")
 ##### ⚠️ Main Structure = Market Structure based on HTF order flow = bearish
 ##### ⚠️ Internal Structure = Internal BOS => (Main Structure = bullish)
 ___     
-![mar04](https://www.tradingview.com/x/UTgGH1A3/ "mar04")
+![img](https://www.tradingview.com/x/UTgGH1A3/ "img")
 ##### ⚠️ There is a HUGE gap between *My Expectation* & *Market Reality* (*Psychology Gap*)
 ##### ⚠️ *Original Consolidation* validates the *Order Block* inside the *Main Structure* ⚠️  
 ___       
-![mar04](https://www.tradingview.com/x/Mce0YPso/ "mar04")
+![img](https://www.tradingview.com/x/Mce0YPso/ "img")
 ##### ⚠️ There is a HUGE gap between *My Expectation* & *Market Reality* (*Psychology Gap*)  
 ${\color{blue}(another \space usecase: \space from \space previous \space week)}$
 ___       
-![mar04](https://www.tradingview.com/x/SYXwicU4/ "mar04")
+![img](https://www.tradingview.com/x/SYXwicU4/ "img")
 ##### 🔥 I have 2 winning trade based on following **Order Flow** in Thursday's London session 
 ${\color{blue}(Transfer \space Of \space From)}$
 ___         
-![mar04](https://www.tradingview.com/x/3ASNz3ox/ "mar04")
+![img](https://www.tradingview.com/x/3ASNz3ox/ "img")
 ##### ⚠️ *My Expectation* based on *Weekly Profile*:  
 #####    - previous week expansion happens at Friday 05:00  
 #####    - so, most likely this week expansion towards the HTF OB is not happening at Friday  
@@ -57,7 +57,7 @@ ___
 #####    - Now We are near the HTF objectives
 #####    - maybe it is not true to shift the market sentiment
 ___    
-![mar04](https://www.tradingview.com/x/SIyqMJTA/ "mar04")
+![img](https://www.tradingview.com/x/SIyqMJTA/ "img")
 ##### ⚠️ Time Validates The Market *Gyration* [https://twitter.com/TraderDext3r/status/1763970516279582945]
 
 ```c
@@ -87,15 +87,15 @@ AlgoCycle[Trap] completed
 AlgoCycle[TakingLiquidity] started    
 ```
 ___     
-![mar04](https://www.tradingview.com/x/1Q8mHE1i/ "mar04") ⚠️  
+![img](https://www.tradingview.com/x/1Q8mHE1i/ "img") ⚠️  
  Why at london close it is a Low-Probability to enter the building liquidity cycle?  
 - because, base on the **Wyckoff rules**, market never behave in the same way twice.   
 ___     
-![mar04](https://www.tradingview.com/x/QtKPXIwf/ "mar04")     
+![img](https://www.tradingview.com/x/QtKPXIwf/ "img")     
 #####  ⚠️ - OB has potential to make BOS    
 #####  ⚠️ - BOS has potential to validate OB  
 ___    
-![mar04](https://www.tradingview.com/x/cA3JYlvA/ "mar04")   
+![img](https://www.tradingview.com/x/cA3JYlvA/ "img")   
 #####  ⚠️ - Why there is no need for price to go below this low!?  
 ```c
 1. Time (NY 04:00) (at the end)  
