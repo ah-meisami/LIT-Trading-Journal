@@ -151,6 +151,11 @@ ___
 - clear Lower Low at the beginning of New York Session is an Inducement
 - Entry: there is no need for price to go below +OB[15] (Smart Money Footprint)
 ```   
-##### ⚠️ all the conditions are validating to enter the bullish setup. 
-##### but based on the WyckoffRules[1], be careful to hold the position for the long time and exit with aggressive
+
+```java
+all the conditions are validating the bullish setup. 
+but based on the WyckoffRules[1], 
+be careful to hold the position for the long time 
+and exit with aggressive
+```
 __    
