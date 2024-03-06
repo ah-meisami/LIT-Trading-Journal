@@ -82,13 +82,12 @@ HTF[OB]
 LTF[BOS]  
 HTF[PDL-cleared]   
 AlgoCycle[Trap] completed  
-AlgoCycle[TakingLiquidity] started  
-  
-  
+AlgoCycle[TakingLiquidity] started    
+___     
 ![mar04](https://www.tradingview.com/x/QtKPXIwf/ "mar04")     
 #####  ⚠️ - OB has potential to make BOS    
 #####  ⚠️ - BOS has potential to validate OB  
-
+___    
 ![mar04](https://www.tradingview.com/x/cA3JYlvA/ "mar04") ⚠️  
 Why there is no need to go below this low!?  
 Why there is no need to go below this low!?  
