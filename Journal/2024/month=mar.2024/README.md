@@ -6,6 +6,7 @@
 
 [https://www.forexfactory.com/calendar?day=mar01.2024] FRI 🔴  [10:00]
 - [Mar01 2024] (#mar01-2024)
+
 #################################################################################
 [https://www.forexfactory.com/calendar?day=mar04.2024] MON
 [https://www.forexfactory.com/calendar?day=mar05.2024] TUE 🔴 [10:00]
@@ -116,6 +117,7 @@ Why there is no need to go below this low!?
 - [Contents](#contents)
   - [Specification](#specification)
   - [Dependencies Title](#dependencies-title)
+    - [Foo are you?](#foo-are-you)
 
 ## Specification
 Example text blah. Example text blah. Example text blah. Example text blah. 
@@ -128,3 +130,11 @@ Example text blah. Example text blah. Example text blah. Example text blah.
 Example text blah. Example text blah. Example text blah. Example text blah. 
 Example text blah. Example text blah. Example text blah. Example text blah. 
 Example text blah. Example text blah. 
+
+
+
+[I want this to link to foo](#foo)
+....
+....
+{: id="foo"}
+### Foo are you?
