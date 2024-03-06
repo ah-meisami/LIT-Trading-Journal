@@ -42,7 +42,7 @@ ___
 ___       
 ![mar04](https://www.tradingview.com/x/Mce0YPso/ "mar04")
 ##### ⚠️ There is a HUGE gap between *My Expectation* & *Market Reality* (*Psychology Gap*)  
-${\color{blue}(another use case: from previous week)}$
+${\color{blue}(another \space usecase: \space from \space previous \space week)}$
 ___       
 ![mar04](https://www.tradingview.com/x/SYXwicU4/ "mar04")
 - i have 2 winning trade based on following **Order Flow** in Thursday's London session 🔥  
