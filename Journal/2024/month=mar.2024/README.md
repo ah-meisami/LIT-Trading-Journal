@@ -4,7 +4,8 @@
 #################################################################################
 
 
-[https://www.forexfactory.com/calendar?day=mar01.2024] FRI 🔴  [10:00] [?day=mar01.2024] (#?day=mar01.2024)
+[https://www.forexfactory.com/calendar?day=mar01.2024] FRI 🔴  
+- [10:00] [?day=mar01.2024] (#?day=mar01.2024)
 #################################################################################
 [https://www.forexfactory.com/calendar?day=mar04.2024] MON
 [https://www.forexfactory.com/calendar?day=mar05.2024] TUE 🔴 [10:00]
