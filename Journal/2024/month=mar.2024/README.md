@@ -113,28 +113,11 @@ Why there is no need to go below this low!?
 
 
 
-# Contents
-- [Contents](#contents)
-  - [Specification](#specification)
-  - [Dependencies Title](#dependencies-title)
-    - [Foo are you?](#foo-are-you)
-
-## Specification
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. 
-
-## Dependencies Title
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. 
-
-
-
-[I want this to link to foo](#foo)
-....
-....
-{: id="foo"}
-### Foo are you?
+# 1. Installation  
+## 1.1. Minimum System Requirements  
+## 1.2. Prerequisites  
+### 1.2.1. Preparation of Database Server  
+### 1.2.2. Preparation of Other Servers  
+## 1.3. Installing – Single Server  
+## 1.4. Installing – Multi Server   
+### 1.4.1. Database Server 
