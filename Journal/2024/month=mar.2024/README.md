@@ -47,11 +47,14 @@ ___
 ![mar04](https://www.tradingview.com/x/SYXwicU4/ "mar04")
 ##### 🔥 I have 2 winning trade based on following **Order Flow** in Thursday's London session 
 ${\color{blue}(Transfer \space Of \space From)}$
-  
+___         
 ![mar04](https://www.tradingview.com/x/3ASNz3ox/ "mar04")
-- **Weekly Profile**   
-- previous week expansion happens at Friday 05:00  
-- so, most likely this week expansion towards the HTF OB is not happening at Friday  
+##### ⚠️ *My Expectation* based on *Weekly Profile**:  
+#####    - previous week expansion happens at Friday 05:00  
+#####    - so, most likely this week expansion towards the HTF OB is not happening at Friday  
+##### ⚠️ *Market Reality* :  
+#####    - High Impact News on Friday
+#####    - Now We are near the HTF objectives
 ___    
 ![mar04](https://www.tradingview.com/x/SIyqMJTA/ "mar04")
 **Time Validates The Market Gyration**  
