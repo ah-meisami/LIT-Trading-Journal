@@ -37,12 +37,12 @@ ___
 ##### ⚠️ Internal Structure = Internal BOS => (Main Structure = bullish)
 ___     
 ![mar04](https://www.tradingview.com/x/UTgGH1A3/ "mar04")
-##### ⚠️ There is a HUGE gap between **My Expectation**  & **Market Reality** (Psychology Gap)
+##### ⚠️ There is a HUGE gap between *My Expectation* & *Market Reality* (*Psychology Gap*)
 ##### ⚠️ *Original Consolidation* validates the *Order Block* inside the *Main Structure* ⚠️  
-  
+___       
 ![mar04](https://www.tradingview.com/x/Mce0YPso/ "mar04")
-- **Market Reality** Gap between **My Expectation** (previous week)  
-  
+##### ⚠️ There is a HUGE gap between *My Expectation* & *Market Reality* (*Psychology Gap*) (another use case: from previous week)  
+___       
 ![mar04](https://www.tradingview.com/x/SYXwicU4/ "mar04")
 - i have 2 winning trade based on following **Order Flow** in Thursday's London session 🔥  
   
