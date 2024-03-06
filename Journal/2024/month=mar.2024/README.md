@@ -58,7 +58,7 @@ ___
 #####    - maybe it is not true to shift the market sentiment
 ___    
 ![mar04](https://www.tradingview.com/x/SIyqMJTA/ "mar04")
-##### ⚠️ Time Validates The Market *Gyration*
+##### ⚠️ Time Validates The Market *Gyration* [https://twitter.com/TraderDext3r/status/1763970516279582945]
 
 ```c
 Monday [London-Close]  
