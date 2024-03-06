@@ -32,8 +32,6 @@ ___
 ##### [`mar28`](#mar28) [https://www.forexfactory.com/calendar?day=mar28.2024] `THU` 🔴 [08:30] [10:00]    
 ##### [`mar29`](#mar29) [https://www.forexfactory.com/calendar?day=mar29.2024] `FRI` 🔴 [08:30]    
 ___    
-## `mar01`
-  
 ![mar04](https://www.tradingview.com/x/hUEiDInZ/ "mar04")
 
 - **Market Structure** formed base on HTF bullish order flow  
@@ -52,9 +50,7 @@ ___
 - **Weekly Profile**   
 - previous week expansion happens at Friday 05:00  
 - so, most likely this week expansion towards the HTF OB is not happening at Friday  
-  
-  
-----------------------  
+___    
 ![mar04](https://www.tradingview.com/x/SIyqMJTA/ "mar04")
 **Time Validates The Market Gyration**  
 Monday [London-Close]  
@@ -63,15 +59,14 @@ LTF[ENGLQD]
 LTF[ClearLowerLow]  
 AlgoCycle[Trap] completed  
 AlgoCycle[BuildingLiquidity] started  
-  
------------  
+___      
 Tuesday [London-Open]   
 HTF[ENGLQD]   
 LTF[BOS]  
 HTF[High-is-Respected]   
 AlgoCycle[BuildingLiquidity] completed  
 AlgoCycle[TakingLiquidity] started  
-  
+
 ![mar04](https://www.tradingview.com/x/1Q8mHE1i/ "mar04") ⚠️  
  Why at london close it is a Low-Probability to enter the building liquidity cycle?  
 - because, base on the **Wyckoff rules**, market never behave in the same way twice.   
