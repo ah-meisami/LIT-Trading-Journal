@@ -103,8 +103,8 @@ ___
 ___    
 ## `mar04`
 
-![The San Juan Mountains are beautiful!](https://www.tradingview.com/x/6HnCC5DC/ "San Juan Mountains")
+![mar04](https://www.tradingview.com/x/6HnCC5DC/ "mar04")
 ___    
 ## `mar05`
-![The San Juan Mountains are beautiful!](https://www.tradingview.com/x/kF0E7mlx/ "San Juan Mountains")
+![mar05](https://www.tradingview.com/x/kF0E7mlx/ "mar05")
 ___    
