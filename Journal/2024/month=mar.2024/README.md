@@ -88,8 +88,8 @@ ___
 #####  ⚠️ - OB has potential to make BOS    
 #####  ⚠️ - BOS has potential to validate OB  
 ___    
-![mar04](https://www.tradingview.com/x/cA3JYlvA/ "mar04") ⚠️  
-#####  ⚠️ - Why there is no need to go below this low!?  
+![mar04](https://www.tradingview.com/x/cA3JYlvA/ "mar04")   
+#####  ⚠️ - Why there is no need for price to go below this low!?  
 ```c
 1. Time (NY 04:00) (at the end)  
 2. Speed (no accumulation at the beginning)  
