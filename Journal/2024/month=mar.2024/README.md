@@ -1,8 +1,7 @@
-###### Wyckoff-Rules  🟡🟡
+###### WyckoffRules [https://medium.com/@Blocksavant/composite-man-ca18c9d2d5a5]  🟡🟡
 ```c
-[https://medium.com/@Blocksavant/composite-man-ca18c9d2d5a5] 
-Wyckoff-Rules[1]: the market never behave in the same way twice.   
-Wyckoff-Rules[2]: context is everything in the financial markets.  
+WyckoffRules[1]: the market never behave in the same way twice.   
+WyckoffRules[2]: context is everything in the financial markets.  
 ```
 
 ___    
@@ -91,8 +90,7 @@ AlgoCycle[TakingLiquidity] started
 ```
 ___     
 ![img](https://www.tradingview.com/x/1Q8mHE1i/ "img") 
- ##### ⚠️ Why at london close it is a Low-Probability to enter the AlgoCycle[building-liquidity]?  
- #####     because, base on the *Wyckoff rules*, market never behave in the same way twice.   
+ ##### ⚠️ Why at london close it is a Low-Probability to enter the AlgoCycle[building-liquidity]?  WyckoffRules[1]
 ___     
 ![img](https://www.tradingview.com/x/QtKPXIwf/ "img")     
 #####  ⚠️ - OB has potential to make BOS    
@@ -153,9 +151,6 @@ ___
 - clear Lower Low at the beginning of New York Session is an Inducement
 - Entry: there is no need for price to go below +OB[15] (Smart Money Footprint)
 ```   
-#####  ⚠️ all the conditions are validating to enter the bullish setup. 
-#####     but based on the *Wyckoff rules*: 
-###### 1. the market never behave in the same way twice.   
-#####     so be careful to hold the position for the long time and exit aggressive
-
-___    
+##### ⚠️ all the conditions are validating to enter the bullish setup. 
+##### but based on the WyckoffRules[1], be careful to hold the position for the long time and exit with aggressive
+__    
