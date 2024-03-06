@@ -1,6 +1,5 @@
-#################################################################################  
-[https://www.forexfactory.com/calendar?month=mar.2024]  
-🔴 High 🟠 Medium 🟡 Low ⚪ Bank Holiday  
+___  
+[https://www.forexfactory.com/calendar?month=mar.2024]  🔴 High 🟠 Medium 🟡 Low ⚪ Bank Holiday  
 ___  
 
 ##### [https://www.forexfactory.com/calendar?day=mar01.2024] FRI 🔴  [10:00]
