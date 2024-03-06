@@ -33,14 +33,12 @@ ___
 ##### [`mar29`](#mar29) [https://www.forexfactory.com/calendar?day=mar29.2024] `FRI` 🔴 [08:30]    
 ___    
 ![mar04](https://www.tradingview.com/x/hUEiDInZ/ "mar04")
-#####  ⚠️ Market Structure formed based on HTF order flow = bearish
-#####  ⚠️ Main Structure
-#####  ⚠️ Internal Structure
-___    
-  
+##### ⚠️ Main Structure = Market Structure based on HTF order flow = bearish
+##### ⚠️ Internal Structure = Internal BOS => (Main Structure = bullish)
+___     
 ![mar04](https://www.tradingview.com/x/UTgGH1A3/ "mar04")
-- **Market Reality** Gap between **My Expectation**   
-- **Original Consolidation** validates the **Order Block** inside the **Main Structure** ⚠️  
+##### ⚠️ There is a HUGE gap between **My Expectation**  & **Market Reality** (Psychology Gap)
+##### ⚠️ *Original Consolidation* validates the *Order Block* inside the *Main Structure* ⚠️  
   
 ![mar04](https://www.tradingview.com/x/Mce0YPso/ "mar04")
 - **Market Reality** Gap between **My Expectation** (previous week)  
