@@ -55,7 +55,8 @@ ___
   
   
 ----------------------  
-[https://www.tradingview.com/x/SIyqMJTA/] **Time Validates The Market Gyration**  
+![mar04](https://www.tradingview.com/x/SIyqMJTA/ "mar04")
+**Time Validates The Market Gyration**  
 Monday [London-Close]  
 HTF[OB]   
 LTF[ENGLQD]   
@@ -71,7 +72,7 @@ HTF[High-is-Respected]
 AlgoCycle[BuildingLiquidity] completed  
 AlgoCycle[TakingLiquidity] started  
   
-[https://www.tradingview.com/x/1Q8mHE1i/] ⚠️  
+![mar04](https://www.tradingview.com/x/1Q8mHE1i/ "mar04") ⚠️  
  Why at london close it is a Low-Probability to enter the building liquidity cycle?  
 - because, base on the **Wyckoff rules**, market never behave in the same way twice.   
   
@@ -84,11 +85,11 @@ AlgoCycle[Trap] completed
 AlgoCycle[TakingLiquidity] started  
   
   
-[https://www.tradingview.com/x/QtKPXIwf/] ⚠️  
+![mar04](https://www.tradingview.com/x/QtKPXIwf/ "mar04") ⚠️  
 - OB has potential to make BOS   
 - BOS has potential to validate OB  
-  
-[https://www.tradingview.com/x/cA3JYlvA/] ⚠️  
+
+![mar04](https://www.tradingview.com/x/cA3JYlvA/ "mar04") ⚠️  
 Why there is no need to go below this low!?  
 Why there is no need to go below this low!?  
 1. Time (NY 04:00) (at the end)  
