@@ -56,35 +56,40 @@ ___
 #####    - We have High Impact News on Friday
 #####    - Now We are near the HTF objectives
 #####    - maybe it is not true to shift the market sentiment
-
 ___    
 ![mar04](https://www.tradingview.com/x/SIyqMJTA/ "mar04")
-**Time Validates The Market Gyration**  
+##### ⚠️ Time Validates The Market *Gyration*
+
+```c
 Monday [London-Close]  
 HTF[OB]   
 LTF[ENGLQD]   
 LTF[ClearLowerLow]  
 AlgoCycle[Trap] completed  
 AlgoCycle[BuildingLiquidity] started  
-___      
+```
+
+```c
 Tuesday [London-Open]   
 HTF[ENGLQD]   
 LTF[BOS]  
 HTF[High-is-Respected]   
 AlgoCycle[BuildingLiquidity] completed  
 AlgoCycle[TakingLiquidity] started  
+```
 
-![mar04](https://www.tradingview.com/x/1Q8mHE1i/ "mar04") ⚠️  
- Why at london close it is a Low-Probability to enter the building liquidity cycle?  
-- because, base on the **Wyckoff rules**, market never behave in the same way twice.   
-  
------------  
+```c
 Wednesday [NewYork-Open]  
 HTF[OB]   
 LTF[BOS]  
 HTF[PDL-cleared]   
 AlgoCycle[Trap] completed  
 AlgoCycle[TakingLiquidity] started    
+```
+___     
+![mar04](https://www.tradingview.com/x/1Q8mHE1i/ "mar04") ⚠️  
+ Why at london close it is a Low-Probability to enter the building liquidity cycle?  
+- because, base on the **Wyckoff rules**, market never behave in the same way twice.   
 ___     
 ![mar04](https://www.tradingview.com/x/QtKPXIwf/ "mar04")     
 #####  ⚠️ - OB has potential to make BOS    
