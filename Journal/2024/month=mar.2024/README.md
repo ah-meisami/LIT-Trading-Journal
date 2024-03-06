@@ -103,6 +103,7 @@ ___
 ___    
 ## `mar04`
 ![mar04](https://www.tradingview.com/x/6HnCC5DC/ "mar04")
+
 ```c
 - HTF Order Flow = Bullish
 - HTF BISI[1h] = Real Support = In **Clear Up Trend** There is no need for price to go below BISI[1h]
@@ -110,9 +111,19 @@ ___
 - HTF Wick[Daily][CE] = Exit
 - LTF Lower-Low = Inducement Type 3
 - LTF BOS (Higher-High) = wait for price to come back to OB[1h]
+- Expansion Time = NYO
 ```   
 ___    
 ## `mar05`
 ![mar05](https://www.tradingview.com/x/kF0E7mlx/ "mar05")
+
+```c
+- HTF Order Flow = Bullish
+- HTF BISI[1h] = Real Support = In **Clear Up Trend** There is no need for price to go below BISI[1h]
+- HTF OB[1h] = Smart Money Footprint = Entry 
+- LTF Lower-Low = Inducement Type 3
+- LTF BOS (Higher-High) = wait for price to come back to OB[1h]
+- Expansion Time = LO
+```   
 
 ___    
