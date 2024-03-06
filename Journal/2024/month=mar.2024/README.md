@@ -113,15 +113,15 @@ Why there is no need to go below this low!?
 
 
 
-[1. Python](#1-python)\\
-[2. c++](#2-c)\\
-[3. c++11](#3-c11)\\
-[4. asp.net-core](#4-aspnet-core)\\
+[1. Python](#1-python) \
+[2. c++](#2-c) \
+[3. c++11](#3-c11) \
+[4. asp.net-core](#4-aspnet-core) \
 
-# 1. Python\\
+# 1. Python \
 
-# 2. c++\\
+# 2. c++ \
 
-# 3. c++11\\
+# 3. c++11 \
 
-# 4. asp.net-core\\
+# 4. asp.net-core \
