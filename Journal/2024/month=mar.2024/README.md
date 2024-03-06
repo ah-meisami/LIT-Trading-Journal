@@ -89,16 +89,15 @@ ___
 #####  ⚠️ - BOS has potential to validate OB  
 ___    
 ![mar04](https://www.tradingview.com/x/cA3JYlvA/ "mar04") ⚠️  
-Why there is no need to go below this low!?  
-Why there is no need to go below this low!?  
+#####  ⚠️ - Why there is no need to go below this low!?  
+```c
 1. Time (NY 04:00) (at the end)  
 2. Speed (no accumulation at the beginning)  
 3. Below CE  
 4. HTF Order Flow = bullish  
 5. HTF High = SMT  
 6. HTF 3 times mitigation = LRLR  
-___    
-  
+```
 ___    
 ## `mar04`
 ![mar04](https://www.tradingview.com/x/6HnCC5DC/ "mar04")
