@@ -2,31 +2,31 @@ ___
 ###### [https://www.forexfactory.com/calendar?month=mar.2024] 🔵
 ___    
   
-##### [https://www.forexfactory.com/calendar?day=mar01.2024] `FRI` 🔴  [10:00]  
+##### [`mar01`](#mar01) [https://www.forexfactory.com/calendar?day=mar01.2024] `FRI` 🔴  [10:00]  
 ___    
-##### [`mar04`](#`mar04`) [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`    
-##### [https://www.forexfactory.com/calendar?day=mar05.2024] `TUE` 🔴 [10:00]    
-##### [https://www.forexfactory.com/calendar?day=mar06.2024] `WED` 🔴 [08:15] [10:00]    
-##### [https://www.forexfactory.com/calendar?day=mar07.2024] `THU` 🔴 [08:15] [10:00]     
-##### [https://www.forexfactory.com/calendar?day=mar08.2024] `FRI` 🔴 [08:30] **NFP**      
+##### [`mar04`](#mar04) [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`    
+##### [`mar05`](#mar05) [https://www.forexfactory.com/calendar?day=mar05.2024] `TUE` 🔴 [10:00]    
+##### [`mar06`](#mar06) [https://www.forexfactory.com/calendar?day=mar06.2024] `WED` 🔴 [08:15] [10:00]    
+##### [`mar07`](#mar07) [https://www.forexfactory.com/calendar?day=mar07.2024] `THU` 🔴 [08:15] [10:00]     
+##### [`mar08`](#mar08) [https://www.forexfactory.com/calendar?day=mar08.2024] `FRI` 🔴 [08:30] **NFP**      
 ___    
-##### [https://www.forexfactory.com/calendar?day=mar11.2024] `MON`    
-##### [https://www.forexfactory.com/calendar?day=mar12.2024] `TUE` 🔴 [08:30] **CPI**    
-##### [https://www.forexfactory.com/calendar?day=mar13.2024] `WED`    
-##### [https://www.forexfactory.com/calendar?day=mar14.2024] `THU` 🔴 [08:30] **PPI**    
-##### [https://www.forexfactory.com/calendar?day=mar15.2024] `FRI` 🔴 [08:30] [10:00]    
+##### [`mar11`](#mar11) [https://www.forexfactory.com/calendar?day=mar11.2024] `MON`    
+##### [`mar12`](#mar12) [https://www.forexfactory.com/calendar?day=mar12.2024] `TUE` 🔴 [08:30] **CPI**    
+##### [`mar13`](#mar13) [https://www.forexfactory.com/calendar?day=mar13.2024] `WED`    
+##### [`mar14`](#mar14) [https://www.forexfactory.com/calendar?day=mar14.2024] `THU` 🔴 [08:30] **PPI**    
+##### [`mar15`](#mar15) [https://www.forexfactory.com/calendar?day=mar15.2024] `FRI` 🔴 [08:30] [10:00]    
 ___    
-##### [https://www.forexfactory.com/calendar?day=mar18.2024] `MON`    
-##### [https://www.forexfactory.com/calendar?day=mar19.2024] `TUE`    
-##### [https://www.forexfactory.com/calendar?day=mar20.2024] `WED` 🔴 [14:00] [14:30] **Fund Rate**    
-##### [https://www.forexfactory.com/calendar?day=mar21.2024] `THU` 🔴 [08:30] [09:45]    
-##### [https://www.forexfactory.com/calendar?day=mar22.2024] `FRI`    
+##### [`mar18`](#mar18) [https://www.forexfactory.com/calendar?day=mar18.2024] `MON`    
+##### [`mar19`](#mar19) [https://www.forexfactory.com/calendar?day=mar19.2024] `TUE`    
+##### [`mar20`](#mar20) [https://www.forexfactory.com/calendar?day=mar20.2024] `WED` 🔴 [14:00] [14:30] **Fund Rate**    
+##### [`mar21`](#mar21) [https://www.forexfactory.com/calendar?day=mar21.2024] `THU` 🔴 [08:30] [09:45]    
+##### [`mar22`](#mar22) [https://www.forexfactory.com/calendar?day=mar22.2024] `FRI`    
 ___    
-##### [https://www.forexfactory.com/calendar?day=mar25.2024] `MON`    
-##### [https://www.forexfactory.com/calendar?day=mar26.2024] `TUE` 🔴 [10:00]    
-##### [https://www.forexfactory.com/calendar?day=mar27.2024] `WED`    
-##### [https://www.forexfactory.com/calendar?day=mar28.2024] `THU` 🔴 [08:30] [10:00]    
-##### [https://www.forexfactory.com/calendar?day=mar29.2024] `FRI` 🔴 [08:30]    
+##### [`mar25`](#mar25) [https://www.forexfactory.com/calendar?day=mar25.2024] `MON`    
+##### [`mar26`](#mar26) [https://www.forexfactory.com/calendar?day=mar26.2024] `TUE` 🔴 [10:00]    
+##### [`mar27`](#mar27) [https://www.forexfactory.com/calendar?day=mar27.2024] `WED`    
+##### [`mar28`](#mar28) [https://www.forexfactory.com/calendar?day=mar28.2024] `THU` 🔴 [08:30] [10:00]    
+##### [`mar29`](#mar29) [https://www.forexfactory.com/calendar?day=mar29.2024] `FRI` 🔴 [08:30]    
 ___    
   
 #################################################################################    
@@ -37,7 +37,7 @@ ___
 #################################################################################  
   
 ___    
-## [Mar01 2024]  
+## `mar01`
   
 [https://www.tradingview.com/x/hUEiDInZ/]   
 - **Market Structure** formed base on HTF bullish order flow  
@@ -108,29 +108,6 @@ ___
 
 ![The San Juan Mountains are beautiful!](https://www.tradingview.com/x/6HnCC5DC/ "San Juan Mountains")
 ___    
+## `mar05`
 ![The San Juan Mountains are beautiful!](https://www.tradingview.com/x/kF0E7mlx/ "San Juan Mountains")
 ___    
-
-
-
-
-- [Hello World](#hello-world)
-  - [header1](#header1)
-  - [header2](#header2)
-
-
-# Hello World
-
-## header1
-- list1
-- list2
-
-
-```
-# test code
-console.log('hello');
-```
-
-## header2
-- list3
-    - list4
