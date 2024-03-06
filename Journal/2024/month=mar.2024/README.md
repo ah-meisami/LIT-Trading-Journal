@@ -86,7 +86,8 @@ AlgoCycle[TakingLiquidity] started
   
   
 ![mar04](https://www.tradingview.com/x/QtKPXIwf/ "mar04")     
-#####  ⚠️ - OB has potential to make BOS    - BOS has potential to validate OB  
+#####  ⚠️ - OB has potential to make BOS    
+#####  ⚠️ - BOS has potential to validate OB  
 
 ![mar04](https://www.tradingview.com/x/cA3JYlvA/ "mar04") ⚠️  
 Why there is no need to go below this low!?  
