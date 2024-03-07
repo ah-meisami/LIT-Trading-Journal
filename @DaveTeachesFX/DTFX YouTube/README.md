@@ -10,6 +10,8 @@ ___
 ##### [https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h46m25s]  
 ___  
 [![Watch the video](https://img.youtube.com/vi/-O1_MSMVBPc/hqdefault.jpg)](https://www.youtube.com/watch?v=-O1_MSMVBPc)  
+##### ⚠️ We're not paying attention to *structure*,  we're paying attention to *strong move*
+##### [https://www.youtube.com/watch?v=-O1_MSMVBPc#t=01h05m46s]  
 ___  
 [![Watch the video](https://img.youtube.com/vi/1Vug-H3r88c/hqdefault.jpg)](https://www.youtube.com/watch?v=1Vug-H3r88c)  
 ___  
