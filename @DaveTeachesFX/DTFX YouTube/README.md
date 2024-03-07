@@ -15,3 +15,8 @@
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=y4rE-jVqrRY)
+
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/y4rE-jVqrRY)
+
+[<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/y4rE-jVqrRY)
