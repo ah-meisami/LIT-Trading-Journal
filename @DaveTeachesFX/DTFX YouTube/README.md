@@ -36,31 +36,31 @@ ___
 ##### [https://www.youtube.com/watch?v=-O1_MSMVBPc#t=01h07m27s]  
 
 ___  
-## `vide04`
+## `vide04`  
 [![Watch the video](https://img.youtube.com/vi/1Vug-H3r88c/hqdefault.jpg)](https://www.youtube.com/watch?v=1Vug-H3r88c)  
 ___  
-## `vide05`
+## `vide05`  
 [![Watch the video](https://img.youtube.com/vi/x4X7srbXf1k/hqdefault.jpg)](https://www.youtube.com/watch?v=x4X7srbXf1k)  
 ___  
-## `vide06`
+## `vide06`  
 [![Watch the video](https://img.youtube.com/vi/Du5ywps8cyI/hqdefault.jpg)](https://www.youtube.com/watch?v=Du5ywps8cyI)  
 ___  
-## `vide07`
+## `vide07`  
 [![Watch the video](https://img.youtube.com/vi/NL5DO8mJPsc/hqdefault.jpg)](https://www.youtube.com/watch?v=NL5DO8mJPsc)  
 ___  
-## `vide08`
+## `vide08`  
 [![Watch the video](https://img.youtube.com/vi/VV0teyLZWi0/hqdefault.jpg)](https://www.youtube.com/watch?v=VV0teyLZWi0)  
 ___  
-## `vide09`
+## `vide09`  
 [![Watch the video](https://img.youtube.com/vi/hqX91iZo5_g/hqdefault.jpg)](https://www.youtube.com/watch?v=hqX91iZo5_g)  
 ___  
-## `vide10`
+## `vide10`  
 [![Watch the video](https://img.youtube.com/vi/RoLhvoEPXsQ/hqdefault.jpg)](https://www.youtube.com/watch?v=RoLhvoEPXsQ)  
 ___  
-## `vide11`
+## `vide11`  
 [![Watch the video](https://img.youtube.com/vi/ntyP_urAuZM/hqdefault.jpg)](https://www.youtube.com/watch?v=ntyP_urAuZM)  
 ___  
-## `vide12`
+## `vide12`  
 [![Watch the video](https://img.youtube.com/vi/BGV57yOxkig/hqdefault.jpg)](https://www.youtube.com/watch?v=BGV57yOxkig)  
 ___  
 
