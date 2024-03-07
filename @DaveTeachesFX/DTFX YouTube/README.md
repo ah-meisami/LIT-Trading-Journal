@@ -3,7 +3,11 @@ ___
 ___  
 [![Watch the video](https://img.youtube.com/vi/Xw1CG5HWVts/hqdefault.jpg)](https://www.youtube.com/watch?v=Xw1CG5HWVts)  
 ##### ⚠️ Why, there is no need for price to go above the 50% of the range?  There is no Volume & no Consolidation
-##### [https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h13m00s]
+##### [https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h13m00s]  
+
+##### ⚠️ we are looking to the left to give us the areas that's providing us with the retracement
+#####    we are looking to the right to give us the areas that are providing us with the continuations
+##### [https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h46m25s]  
 ___  
 [![Watch the video](https://img.youtube.com/vi/-O1_MSMVBPc/hqdefault.jpg)](https://www.youtube.com/watch?v=-O1_MSMVBPc)  
 ___  
