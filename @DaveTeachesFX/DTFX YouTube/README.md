@@ -14,11 +14,4 @@
 
 
 
-<div align="center">
-      <a href="https://www.youtube.com/watch?v=y4rE-jVqrRY">
-     <img 
-      src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" 
-      alt="Everything Is AWESOME" 
-      style="width:100%;">
-      </a>
-    </div>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=y4rE-jVqrRY)
