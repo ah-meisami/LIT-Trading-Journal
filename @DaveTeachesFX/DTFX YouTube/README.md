@@ -1,6 +1,18 @@
+##### [`vide01`](#vide01) 
+##### [`vide02`](#vide02) 
+##### [`vide03`](#vide03) 
+##### [`vide04`](#vide04) 
+##### [`vide05`](#vide05) 
+##### [`vide06`](#vide06) 
+##### [`vide07`](#vide07) 
+##### [`vide08`](#vide08) 
+##### [`vide09`](#vide09) 
+##### [`vide10`](#vide10) 
 ___  
+## `vide01`
 [![Watch the video](https://img.youtube.com/vi/y4rE-jVqrRY/hqdefault.jpg)](https://www.youtube.com/watch?v=y4rE-jVqrRY)  
 ___  
+## `vide02`
 [![Watch the video](https://img.youtube.com/vi/Xw1CG5HWVts/hqdefault.jpg)](https://www.youtube.com/watch?v=Xw1CG5HWVts)  
 ##### ⚠️ Why, there is no need for price to go above the 50% of the range?  There is no Volume & no Consolidation
 ##### [https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h13m00s]  
@@ -13,6 +25,7 @@ ___
 ##### [https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h46m25s]  
 
 ___  
+## `vide03`
 [![Watch the video](https://img.youtube.com/vi/-O1_MSMVBPc/hqdefault.jpg)](https://www.youtube.com/watch?v=-O1_MSMVBPc)  
 ##### ⚠️ We're not paying attention to *structure*,  we're paying attention to *strong move*
 ##### [https://www.youtube.com/watch?v=-O1_MSMVBPc#t=01h05m46s]  
@@ -21,18 +34,25 @@ ___
 ##### [https://www.youtube.com/watch?v=-O1_MSMVBPc#t=01h07m27s]  
 
 ___  
+## `vide04`
 [![Watch the video](https://img.youtube.com/vi/1Vug-H3r88c/hqdefault.jpg)](https://www.youtube.com/watch?v=1Vug-H3r88c)  
 ___  
+## `vide05`
 [![Watch the video](https://img.youtube.com/vi/x4X7srbXf1k/hqdefault.jpg)](https://www.youtube.com/watch?v=x4X7srbXf1k)  
 ___  
+## `vide06`
 [![Watch the video](https://img.youtube.com/vi/Du5ywps8cyI/hqdefault.jpg)](https://www.youtube.com/watch?v=Du5ywps8cyI)  
 ___  
+## `vide07`
 [![Watch the video](https://img.youtube.com/vi/NL5DO8mJPsc/hqdefault.jpg)](https://www.youtube.com/watch?v=NL5DO8mJPsc)  
 ___  
+## `vide08`
 [![Watch the video](https://img.youtube.com/vi/VV0teyLZWi0/hqdefault.jpg)](https://www.youtube.com/watch?v=VV0teyLZWi0)  
 ___  
+## `vide09`
 [![Watch the video](https://img.youtube.com/vi/hqX91iZo5_g/hqdefault.jpg)](https://www.youtube.com/watch?v=hqX91iZo5_g)  
 ___  
+## `vide10`
 [![Watch the video](https://img.youtube.com/vi/RoLhvoEPXsQ/hqdefault.jpg)](https://www.youtube.com/watch?v=RoLhvoEPXsQ)  
 ___  
 [![Watch the video](https://img.youtube.com/vi/ntyP_urAuZM/hqdefault.jpg)](https://www.youtube.com/watch?v=ntyP_urAuZM)  
