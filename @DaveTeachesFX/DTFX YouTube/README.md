@@ -1,15 +1,15 @@
-##### [`vide01`](#vide01)  
-##### [`vide02`](#vide02)  
-##### [`vide03`](#vide03)  
-##### [`vide04`](#vide04)  
-##### [`vide05`](#vide05)  
-##### [`vide06`](#vide06)  
-##### [`vide07`](#vide07)  
-##### [`vide08`](#vide08)  
-##### [`vide09`](#vide09)  
-##### [`vide10`](#vide10)  
-##### [`vide11`](#vide11)  
-##### [`vide12`](#vide12)  
+##### [`vide01`](#vide01)   [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`    
+##### [`vide02`](#vide02)   [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`    
+##### [`vide03`](#vide03)   [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`    
+##### [`vide04`](#vide04)   [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`    
+##### [`vide05`](#vide05)   [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`    
+##### [`vide06`](#vide06)   [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`    
+##### [`vide07`](#vide07)   [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`    
+##### [`vide08`](#vide08)   [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`    
+##### [`vide09`](#vide09)   [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`    
+##### [`vide10`](#vide10)   [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`    
+##### [`vide11`](#vide11)   [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`    
+##### [`vide12`](#vide12)   [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`    
 ___  
 ## `vide01`
 [![Watch the video](https://img.youtube.com/vi/y4rE-jVqrRY/hqdefault.jpg)](https://www.youtube.com/watch?v=y4rE-jVqrRY)  
