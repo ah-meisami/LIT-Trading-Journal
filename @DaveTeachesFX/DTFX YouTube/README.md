@@ -1,15 +1,15 @@
 ##### [`vide01`](#vide01) [https://www.youtube.com/watch?v=y4rE-jVqrRY]     
-##### [`vide02`](#vide02) [https://www.youtube.com/watch?v=]     
-##### [`vide03`](#vide03) [https://www.youtube.com/watch?v=]     
-##### [`vide04`](#vide04) [https://www.youtube.com/watch?v=]     
-##### [`vide05`](#vide05) [https://www.youtube.com/watch?v=]     
-##### [`vide06`](#vide06) [https://www.youtube.com/watch?v=]     
-##### [`vide07`](#vide07) [https://www.youtube.com/watch?v=]     
-##### [`vide08`](#vide08) [https://www.youtube.com/watch?v=]     
-##### [`vide09`](#vide09) [https://www.youtube.com/watch?v=]     
-##### [`vide10`](#vide10) [https://www.youtube.com/watch?v=]     
-##### [`vide11`](#vide11) [https://www.youtube.com/watch?v=]     
-##### [`vide12`](#vide12) [https://www.youtube.com/watch?v=]     
+##### [`vide02`](#vide02) [https://www.youtube.com/watch?v=Xw1CG5HWVts]     
+##### [`vide03`](#vide03) [https://www.youtube.com/watch?v=-O1_MSMVBPc]     
+##### [`vide04`](#vide04) [https://www.youtube.com/watch?v=1Vug-H3r88c]     
+##### [`vide05`](#vide05) [https://www.youtube.com/watch?v=x4X7srbXf1k]     
+##### [`vide06`](#vide06) [https://www.youtube.com/watch?v=Du5ywps8cyI]     
+##### [`vide07`](#vide07) [https://www.youtube.com/watch?v=NL5DO8mJPsc]     
+##### [`vide08`](#vide08) [https://www.youtube.com/watch?v=VV0teyLZWi0]     
+##### [`vide09`](#vide09) [https://www.youtube.com/watch?v=hqX91iZo5_g]     
+##### [`vide10`](#vide10) [https://www.youtube.com/watch?v=RoLhvoEPXsQ]     
+##### [`vide11`](#vide11) [https://www.youtube.com/watch?v=ntyP_urAuZM]     
+##### [`vide12`](#vide12) [https://www.youtube.com/watch?v=BGV57yOxkig]     
 ___  
 ## `vide01`
 [![Watch the video](https://img.youtube.com/vi/y4rE-jVqrRY/hqdefault.jpg)](https://www.youtube.com/watch?v=y4rE-jVqrRY)  
@@ -19,7 +19,7 @@ ___
 ##### ⚠️ Why, there is no need for price to go above the 50% of the range?  There is no Volume & no Consolidation
 ##### [https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h13m00s]  
 
-##### ⚠️ Why this Wick considered as a *Manipulation*
+##### ⚠️ Why this Wick considered as a *Manipulation*? 1.Liquidity Grab 2.Come Back to Range 3.Body Closed inside the range
 ##### [https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h29m19s]  
 
 ##### ⚠️ we are looking to the left to give us the areas that's providing us with the retracement
