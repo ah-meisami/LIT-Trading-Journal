@@ -2,9 +2,9 @@ ___
 [![Watch the video](https://img.youtube.com/vi/y4rE-jVqrRY/hqdefault.jpg)](https://www.youtube.com/watch?v=y4rE-jVqrRY)  
 ___  
 [![Watch the video](https://img.youtube.com/vi/Xw1CG5HWVts/hqdefault.jpg)](https://www.youtube.com/watch?v=Xw1CG5HWVts)  
-###### There is no need for price to go above the 50% of the range. Why?
+###### Why, there is no need for price to go above the 50% of the range?
 ###### - There is no Volume & Consolidation
-[https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h13m00s]
+###### [https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h13m00s]
 ___  
 [![Watch the video](https://img.youtube.com/vi/-O1_MSMVBPc/hqdefault.jpg)](https://www.youtube.com/watch?v=-O1_MSMVBPc)  
 ___  
