@@ -1,21 +1,13 @@
-[https://www.youtube.com/watch?v=y4rE-jVqrRY]  
-[https://www.youtube.com/watch?v=Xw1CG5HWVts]  
-[https://www.youtube.com/watch?v=-O1_MSMVBPc]  
-[https://www.youtube.com/watch?v=1Vug-H3r88c]  
-[https://www.youtube.com/watch?v=x4X7srbXf1k]  
-[https://www.youtube.com/watch?v=Du5ywps8cyI]  
-[https://www.youtube.com/watch?v=NL5DO8mJPsc]  
-[https://www.youtube.com/watch?v=VV0teyLZWi0]  
-[https://www.youtube.com/watch?v=hqX91iZo5_g]  
-[https://www.youtube.com/watch?v=RoLhvoEPXsQ]  
-[https://www.youtube.com/watch?v=ntyP_urAuZM]  
-[https://www.youtube.com/watch?v=BGV57yOxkig]  
-
-
-
-
-
 [![Watch the video](https://img.youtube.com/vi/y4rE-jVqrRY/hqdefault.jpg)](https://www.youtube.com/embed/y4rE-jVqrRY)
+[![Watch the video](https://img.youtube.com/vi/Xw1CG5HWVts/hqdefault.jpg)](https://www.youtube.com/embed/Xw1CG5HWVts)
+[![Watch the video](https://img.youtube.com/vi/-O1_MSMVBPc/hqdefault.jpg)](https://www.youtube.com/embed/-O1_MSMVBPc)
+[![Watch the video](https://img.youtube.com/vi/1Vug-H3r88c/hqdefault.jpg)](https://www.youtube.com/embed/1Vug-H3r88c)
+[![Watch the video](https://img.youtube.com/vi/x4X7srbXf1k/hqdefault.jpg)](https://www.youtube.com/embed/x4X7srbXf1k)
+[![Watch the video](https://img.youtube.com/vi/Du5ywps8cyI/hqdefault.jpg)](https://www.youtube.com/embed/Du5ywps8cyI)
+[![Watch the video](https://img.youtube.com/vi/NL5DO8mJPsc/hqdefault.jpg)](https://www.youtube.com/embed/NL5DO8mJPsc)
+[![Watch the video](https://img.youtube.com/vi/VV0teyLZWi0/hqdefault.jpg)](https://www.youtube.com/embed/VV0teyLZWi0)
+[![Watch the video](https://img.youtube.com/vi/hqX91iZo5_g/hqdefault.jpg)](https://www.youtube.com/embed/hqX91iZo5_g)
+[![Watch the video](https://img.youtube.com/vi/RoLhvoEPXsQ/hqdefault.jpg)](https://www.youtube.com/embed/RoLhvoEPXsQ)
+[![Watch the video](https://img.youtube.com/vi/ntyP_urAuZM/hqdefault.jpg)](https://www.youtube.com/embed/ntyP_urAuZM)
+[![Watch the video](https://img.youtube.com/vi/BGV57yOxkig/hqdefault.jpg)](https://www.youtube.com/embed/BGV57yOxkig)
 
-[<img src="https://img.youtube.com/vi/y4rE-jVqrRY/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/y4rE-jVqrRY)
