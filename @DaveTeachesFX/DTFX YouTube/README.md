@@ -1,5 +1,5 @@
-##### [`vide01`](#vide01) []     
-##### [`vide02`](#vide02) []     
+##### [`vide01`](#vide01) [https://www.youtube.com/watch?v=y4rE-jVqrRY]     [](Comment text goes here)
+##### [`vide02`](#vide02) [https://www.youtube.com/watch?v=Xw1CG5HWVts]     
 ##### [`vide03`](#vide03) [https://www.youtube.com/watch?v=-O1_MSMVBPc]     
 ##### [`vide04`](#vide04) [https://www.youtube.com/watch?v=1Vug-H3r88c]     
 ##### [`vide05`](#vide05) [https://www.youtube.com/watch?v=x4X7srbXf1k]     
