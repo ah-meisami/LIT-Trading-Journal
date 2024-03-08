@@ -1,5 +1,5 @@
-##### [`vide01`](#vide01) [https://www.youtube.com/watch?v=y4rE-jVqrRY]     
-##### [`vide02`](#vide02) [https://www.youtube.com/watch?v=Xw1CG5HWVts]     
+##### [`vide01`](#vide01) []     
+##### [`vide02`](#vide02) []     
 ##### [`vide03`](#vide03) [https://www.youtube.com/watch?v=-O1_MSMVBPc]     
 ##### [`vide04`](#vide04) [https://www.youtube.com/watch?v=1Vug-H3r88c]     
 ##### [`vide05`](#vide05) [https://www.youtube.com/watch?v=x4X7srbXf1k]     
@@ -38,6 +38,10 @@ ___
 ___  
 ## `vide04`  
 [![Watch the video](https://img.youtube.com/vi/1Vug-H3r88c/hqdefault.jpg)](https://www.youtube.com/watch?v=1Vug-H3r88c)  
+
+##### ⚠️ Candlestick Structure, Overall Structure, Secondary Structure, Intermediary Structure
+##### ⚠️ Bearish Flip, Bullish Flip
+
 ___  
 ## `vide05`  
 [![Watch the video](https://img.youtube.com/vi/x4X7srbXf1k/hqdefault.jpg)](https://www.youtube.com/watch?v=x4X7srbXf1k)  
