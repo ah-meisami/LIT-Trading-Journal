@@ -1,5 +1,7 @@
 ##### [`vide01`](#vide01) [https://www.youtube.com/watch?v=y4rE-jVqrRY] 
-{::comment} comment text {:/comment}
+{::comment} 
+comment text 
+{:/comment}
 ##### [`vide02`](#vide02) [https://www.youtube.com/watch?v=Xw1CG5HWVts]     
 ##### [`vide03`](#vide03) [https://www.youtube.com/watch?v=-O1_MSMVBPc]     
 ##### [`vide04`](#vide04) [https://www.youtube.com/watch?v=1Vug-H3r88c]     
