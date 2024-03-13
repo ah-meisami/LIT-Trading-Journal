@@ -167,6 +167,7 @@ ___
 ___    
 ## `mar12`
 ![img](https://www.tradingview.com/x/SdFwXp64/ "img")
+##### ⚠️ [https://twitter.com/StoicTA/status/1767661005545279673]
 ___    
 ## `mar13`
 ___    
