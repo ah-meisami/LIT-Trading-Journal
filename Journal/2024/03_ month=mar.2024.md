@@ -170,6 +170,11 @@ ___
 ##### ⚠️ [https://twitter.com/StoicTA/status/1767661005545279673]
 
 ![img](https://www.tradingview.com/x/zwnB1Ky2/ "img")
+
+```java
+$NQ HTF OF respecting Bullish
+$XU HTF OF respecting Bearish
+```
 ___    
 ## `mar13`
 ___    
