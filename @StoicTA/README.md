@@ -8,6 +8,9 @@
 ___  
 ## `vide01`
 [![Watch the video](https://img.youtube.com/vi/pP3UsqAT_V4/hqdefault.jpg)](https://www.youtube.com/watch?v=pP3UsqAT_V4)  
+
+#### “Simplicity is the ultimate sophistication” (Leonardo Da Vinci)
+
 ___  
 ## `vide02`
 [![Watch the video](https://img.youtube.com/vi/Af-qS5j-MGo/hqdefault.jpg)](https://www.youtube.com/watch?v=Af-qS5j-MGo)  
