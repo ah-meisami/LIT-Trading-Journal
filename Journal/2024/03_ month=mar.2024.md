@@ -168,6 +168,8 @@ ___
 ## `mar12`
 ![img](https://www.tradingview.com/x/SdFwXp64/ "img")
 ##### ⚠️ [https://twitter.com/StoicTA/status/1767661005545279673]
+
+![img](https://www.tradingview.com/x/zwnB1Ky2/ "img")
 ___    
 ## `mar13`
 ___    
