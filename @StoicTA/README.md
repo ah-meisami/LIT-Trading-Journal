@@ -11,6 +11,9 @@ ___
 
 #### “Simplicity is the ultimate sophistication” (Leonardo Da Vinci)
 
+#### Bullish Swing Points is established after price **closed** above the high.
+#### Bearish Swing Points is established after price **closed** below the low.
+
 ___  
 ## `vide02`
 [![Watch the video](https://img.youtube.com/vi/Af-qS5j-MGo/hqdefault.jpg)](https://www.youtube.com/watch?v=Af-qS5j-MGo)  
