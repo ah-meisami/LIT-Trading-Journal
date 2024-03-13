@@ -3,7 +3,7 @@
 ##### [`vide01`](#vide01) Simple Trend Following Trading Strategy (Full tutorial from Beginner to Advanced)
 ##### [`vide02`](#vide02) Trading Psychology | How To Become Consistently Profitable Trader
 ##### [`vide03`](#vide03) Market Structure Deep Dive (Full tutorial for Beginner and Advanced)
-##### [`vide03`](#vide03) The Only Trading Strategy You Will Ever Need (Full Tutorial for Beginners and Advanced)
+##### [`vide04`](#vide04) The Only Trading Strategy You Will Ever Need (Full Tutorial for Beginners and Advanced)
 
 ___  
 ## `vide01`
@@ -17,6 +17,10 @@ ___
 #### Trigger (Swing Point)
 #### Entry (Unmitigated SnD, Flip)
 #### Target (new high)
+
+#### Engineering Liquidity *StoicTA says this is Inducement* = Accumulation
+#### Manipulation *Taking Engineering Liquidity*
+#### Distribution
 ___  
 ## `vide02`
 [![Watch the video](https://img.youtube.com/vi/Af-qS5j-MGo/hqdefault.jpg)](https://www.youtube.com/watch?v=Af-qS5j-MGo)  
