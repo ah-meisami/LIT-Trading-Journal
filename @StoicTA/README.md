@@ -14,6 +14,9 @@ ___
 #### Bullish Swing Points is established after price **closed** above the high.
 #### Bearish Swing Points is established after price **closed** below the low.
 
+#### Trigger (Swing Point)
+#### Entry (Unmitigated SnD, Flip)
+#### Target (new high)
 ___  
 ## `vide02`
 [![Watch the video](https://img.youtube.com/vi/Af-qS5j-MGo/hqdefault.jpg)](https://www.youtube.com/watch?v=Af-qS5j-MGo)  
