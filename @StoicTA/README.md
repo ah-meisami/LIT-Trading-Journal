@@ -1,4 +1,4 @@
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/StoicTA)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40StoicTA)](https://twitter.com/StoicTA)
 
 ##### [`vide01`](#vide01) Simple Trend Following Trading Strategy (Full tutorial from Beginner to Advanced)
 ##### [`vide02`](#vide02) Trading Psychology | How To Become Consistently Profitable Trader
