@@ -178,6 +178,23 @@ $XU HTF OF respecting Bearish
 ```
 ___    
 ## `mar13`
+![img](https://www.tradingview.com/x/xTviG8cq/ "img")
+```java
+LTF Zoom IN{
+    You See: 
+        1. Bullish Order Flow
+}  => 
+HTF Zoom OUT{
+    You See:
+        1. HTF MAIN Order Flow = Bullish
+        2. HTF INTERNAL Order Flow = Bearish
+        3. HTF Retracement 
+        4. HTF Bearish Order Block
+        5. HTF Bearish Break Of Structure
+        6. HTF Engineering Liquidity (LTF Inducement)
+} 
+```
+
 ![img](https://www.tradingview.com/x/dnzd4Tj6/ "img")
 ```java
 [Unmitigated Area] in the [Source Of The Curve]
