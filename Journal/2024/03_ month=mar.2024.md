@@ -232,6 +232,11 @@ ___
 ## `mar14`
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=AnticipationOfDTFX)](https://twitter.com/StoicTA/status/1768241915521048655)
 ![img](https://www.tradingview.com/x/LFdJBwxf/ "img")
+
+
+The MONEY is in the details. 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=AnticipationOfDTFX)](https://twitter.com/StoicTA/status/1768255665812709438)
+
 ___    
 ## `mar15`
 ___    
