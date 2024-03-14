@@ -184,7 +184,7 @@ LTF Zoom IN{
     You See: 
         1. LTF Bullish Order Flow
         2. LTF Bullish Break Of Structure
-}  => 
+} 
 HTF Zoom OUT{
     You See:
         1. HTF MAIN Order Flow = Bullish
