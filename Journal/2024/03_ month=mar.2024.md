@@ -182,7 +182,8 @@ ___
 ```java
 LTF Zoom IN{
     You See: 
-        1. Bullish Order Flow
+        1. LTF Bullish Order Flow
+        2. LTF Bullish Break Of Structure
 }  => 
 HTF Zoom OUT{
     You See:
