@@ -227,8 +227,11 @@ There is {No Volume} below [Unmitigated Area] in the [Source Of The Curve]
 [Bearish Flip] + [5 Pullback] + [Inside SnD Area] = signature for closing trade
 ```
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=AnnotationOf*StoicTA)](https://twitter.com/StoicTA/status/1768010752961507363)
+##### ⚠️ BOS inside BOS was interesting
 ___    
 ## `mar14`
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=AnticipationOfDTFX)](https://twitter.com/StoicTA/status/1768241915521048655)
+![img](https://www.tradingview.com/x/LFdJBwxf/ "img")
 ___    
 ## `mar15`
 ___    
