@@ -230,7 +230,7 @@ There is {No Volume} below [Unmitigated Area] in the [Source Of The Curve]
 ##### ⚠️ BOS inside BOS was interesting
 ___    
 ## `mar14`
-##### ⚠️ DTFX anticipation on FX [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social)](https://twitter.com/StoicTA/status/1768241915521048655)
+##### ⚠️ DTFX anticipation [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social)](https://twitter.com/StoicTA/status/1768241915521048655) 
 ![img](https://www.tradingview.com/x/LFdJBwxf/ "img")
 
 
