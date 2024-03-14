@@ -199,8 +199,17 @@ There is [Unmitigated Area] in the [Source Of The Curve]
 ![img](https://www.tradingview.com/x/SfWGRxPD/ "img")
 ```java
 Despite [Bullish Flip] Failed, I am Still Bullish!?
-There is {No Volume} below [Unmitigated Area] in the [Source Of The Curve]
+
+There is {No Need} for price to go below [Unmitigated Area] in the [Source Of The Curve] !?
+There is {No Volume} below [Unmitigated Area] in the [Source Of The Curve] 
 ```
+
+![img](https://www.tradingview.com/x/DApu2Fyx/ "img")
+```java
+[Bearish Flip] + [5 Pullback] + [Inside SnD Area] = signature for closing trade
+
+```
+
 ___    
 ## `mar14`
 ___    
