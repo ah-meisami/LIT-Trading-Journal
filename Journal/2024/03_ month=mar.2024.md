@@ -178,6 +178,7 @@ $XU HTF OF respecting Bearish
 ```
 ___    
 ## `mar13`
+![img](https://www.tradingview.com/x/SfWGRxPD/ "img")
 ___    
 ## `mar14`
 ___    
