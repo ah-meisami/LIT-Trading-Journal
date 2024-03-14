@@ -178,10 +178,16 @@ $XU HTF OF respecting Bearish
 ```
 ___    
 ## `mar13`
+![img](https://www.tradingview.com/x/dnzd4Tj6/ "img")
+```java
+[Unmitigated Area] in the [Source Of The Curve]
+```
 
 ![img](https://www.tradingview.com/x/lUY5P0oq/ "img")
 ```java
-Expecting [Bullish Flip] Failed !?
+[Bullish Flip] Failed 
+
+Expecting !?
 There is [Unmitigated Area] in the [Source Of The Curve]
 ```
 
