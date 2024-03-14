@@ -207,9 +207,10 @@ There is {No Volume} below [Unmitigated Area] in the [Source Of The Curve]
 ![img](https://www.tradingview.com/x/DApu2Fyx/ "img")
 ```java
 [Bearish Flip] + [5 Pullback] + [Inside SnD Area] = signature for closing trade
-
 ```
 
+![img](https://www.tradingview.com/x/SdFwXp64/ "img")
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Source*StoicTA)](https://twitter.com/StoicTA/status/1768010752961507363)
 ___    
 ## `mar14`
 ___    
