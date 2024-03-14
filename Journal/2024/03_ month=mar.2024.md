@@ -191,6 +191,11 @@ Expecting !?
 There is [Unmitigated Area] in the [Source Of The Curve]
 ```
 
+![img](https://www.tradingview.com/x/2TRDLeXV/ "img")
+```java
+[Bearish Flip] is the signature for closing trade with {small losses]
+```
+
 ![img](https://www.tradingview.com/x/SfWGRxPD/ "img")
 ```java
 Despite [Bullish Flip] Failed, I am Still Bullish!?
