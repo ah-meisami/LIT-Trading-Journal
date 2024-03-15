@@ -228,22 +228,7 @@ There is {No Volume} below [Unmitigated Area] in the [Source Of The Curve]
 ```
 ##### ⚠️ BOS inside BOS was interesting [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social)](https://twitter.com/StoicTA/status/1768010752961507363)
 
-````
-Traders are the laziest content creators. 
-
-Influencers are the best content creators. 
-
-When you actually trade everyday, 
-you have no interest in making the most pristine content possible
-because a lot of your mental capital is used for what matters, TRADING.
-````
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social)](https://twitter.com/DaveTeachesFX/status/1767869848388792414)
-
-```{r echo=FALSE}
-blogdown::shortcode('tweet', '1767869848388792414')
-```
-
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Traders are the laziest content creators. <br><br>Influencers are the best content creators. <br><br>When you actually trade everyday, you have no interest in making the most pristine content possible because a lot of your mental capital is used for what matters, TRADING.</p>&mdash; Dave Teaches (Jordan of Trading) (@DaveTeachesFX) <a href="https://twitter.com/DaveTeachesFX/status/1767869848388792414?ref_src=twsrc%5Etfw">March 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ___    
 ## `mar14`
 ![img](https://www.tradingview.com/x/LFdJBwxf/ "img")
