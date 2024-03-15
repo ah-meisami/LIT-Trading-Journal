@@ -168,7 +168,7 @@ ___
 ## `mar12`
 ![img](https://www.tradingview.com/x/SdFwXp64/ "img")
 ````
-⚠️ Annotating Charts (from StoicTA)
+🟣 Annotating Charts (from StoicTA)
 ````
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social)](https://twitter.com/StoicTA/status/1767661005545279673)
 
@@ -231,7 +231,7 @@ There is {No Volume} below [Unmitigated Area] in the [Source Of The Curve]
 ```
 
 ````
-⚠️ BOS inside BOS was interesting (from StoicTA)
+🟣 Annotating Charts (from StoicTA) (BOS inside BOS was interesting)
 ````
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social)](https://twitter.com/StoicTA/status/1768010752961507363)
 
@@ -271,6 +271,10 @@ Why [Bullish Flip] is not working here?
 }
 🟠 Forcing Trade Setup
 ```
+![img](https://www.tradingview.com/x/SdFwXp64/ "img")
+````
+🟣 Annotating Charts (from StoicTA)
+````
 ___    
 ## `mar15`
 ___    
