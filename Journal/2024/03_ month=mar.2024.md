@@ -230,11 +230,30 @@ There is {No Volume} below [Unmitigated Area] in the [Source Of The Curve]
 ##### ⚠️ BOS inside BOS was interesting
 ___    
 ## `mar14`
-##### ⚠️ DTFX anticipation [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social)](https://twitter.com/StoicTA/status/1768241915521048655) 
 ![img](https://www.tradingview.com/x/LFdJBwxf/ "img")
+##### ⚠️ DTFX anticipation [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social)](https://twitter.com/StoicTA/status/1768241915521048655) 
 
+![img](https://www.tradingview.com/x/jD0PmOEJ/ "img")
+```java
+Psychology Gap{
+Why Bullish Flip working here?
 
+Different Type of Inducements, 
+Validates the Bullish Flip
 
+Previous Week Bearish Expansion 
+Needs a Shift in the market Sentiment.
+
+EQHs traps SMC traders.
+}
+
+Psychology Gap{
+Why Bullish Flip is not working here?
+
+Average SMC traders characteristics:
+Using Random Concepts in Random Places
+}
+```
 ___    
 ## `mar15`
 ___    
