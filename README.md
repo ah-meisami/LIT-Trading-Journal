@@ -17,3 +17,13 @@ Liquidity Inducement Trading Journal
 
 ICT Core Content Notes (All months)
 [https://arjoio.notion.site/arjoio/ICT-Core-Content-Notes-All-months-7ccee3fddff34d0cbb103f7c164ea9e1]
+
+
+[https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams]
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```

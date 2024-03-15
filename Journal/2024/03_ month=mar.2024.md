@@ -236,8 +236,8 @@ Influencers are the best content creators.
 When you actually trade everyday, 
 you have no interest in making the most pristine content possible
 because a lot of your mental capital is used for what matters, TRADING.
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=AnnotationOf*StoicTA)](https://twitter.com/DaveTeachesFX/status/1767869848388792414)
 ````
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=AnnotationOf*StoicTA)](https://twitter.com/DaveTeachesFX/status/1767869848388792414)
 ___    
 ## `mar14`
 ![img](https://www.tradingview.com/x/LFdJBwxf/ "img")
