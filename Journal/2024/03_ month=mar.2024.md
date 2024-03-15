@@ -228,6 +228,18 @@ There is {No Volume} below [Unmitigated Area] in the [Source Of The Curve]
 ```
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=AnnotationOf*StoicTA)](https://twitter.com/StoicTA/status/1768010752961507363)
 ##### ⚠️ BOS inside BOS was interesting
+
+````
+```
+Traders are the laziest content creators. 
+
+Influencers are the best content creators. 
+
+When you actually trade everyday, 
+you have no interest in making the most pristine content possible
+because a lot of your mental capital is used for what matters, TRADING.
+```
+````
 ___    
 ## `mar14`
 ![img](https://www.tradingview.com/x/LFdJBwxf/ "img")
