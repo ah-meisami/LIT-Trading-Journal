@@ -290,7 +290,7 @@ ___
 
 
 [The difference between a specialist and a generalist](http://example.com)
-![img width=50](https://toggl.com/blog/wp-content/uploads/2023/01/Generalist-vs-specialist_-What-makes-a-better-hire_.png "img")
+![img](https://toggl.com/blog/wp-content/uploads/2023/01/Generalist-vs-specialist_-What-makes-a-better-hire_.png =50*50 "img")
 ___    
 ## `mar18`
 ___    
