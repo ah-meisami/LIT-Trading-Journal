@@ -228,7 +228,7 @@ There is {No Volume} below [Unmitigated Area] in the [Source Of The Curve]
 ```
 
 ````
-⚠️ BOS inside BOS was interesting 
+⚠️ BOS inside BOS was interesting (from StoicTA)
 ````
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social)](https://twitter.com/StoicTA/status/1768010752961507363)
 
