@@ -235,7 +235,7 @@ ___
 
 ![img](https://www.tradingview.com/x/jD0PmOEJ/ "img")
 ```java
-Psychology Gap{
+🟠 Psychology Gap{
 Why [Bullish Flip] working here?
 
 Different Type of Inducements, 
@@ -246,7 +246,7 @@ Needs a Shift in the market Sentiment.
 
 EQHs traps SMC traders.
 }
-Psychology Gap{
+🟠 Psychology Gap{
 Why [Bullish Flip] is not working here?
 
 Average SMC traders characteristics:
