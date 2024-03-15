@@ -259,6 +259,7 @@ Why [Bullish Flip] is not working here?
 
 - Average SMC traders characteristics: Using Random Concepts in Random Places
 }
+🟠 Forcing Trade Setup
 ```
 ___    
 ## `mar15`
