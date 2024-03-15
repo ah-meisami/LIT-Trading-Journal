@@ -236,19 +236,18 @@ ___
 ![img](https://www.tradingview.com/x/jD0PmOEJ/ "img")
 ```java
 Psychology Gap{
-Why Bullish Flip working here?
+Why [Bullish Flip] working here?
 
 Different Type of Inducements, 
-Validates the Bullish Flip
+Validates the [Bullish Flip]
 
 Previous Week Bearish Expansion 
 Needs a Shift in the market Sentiment.
 
 EQHs traps SMC traders.
 }
-
 Psychology Gap{
-Why Bullish Flip is not working here?
+Why [Bullish Flip] is not working here?
 
 Average SMC traders characteristics:
 Using Random Concepts in Random Places
