@@ -245,7 +245,10 @@ because a lot of your mental capital is used for what matters, TRADING.
 ___    
 ## `mar14`
 ![img](https://www.tradingview.com/x/LFdJBwxf/ "img")
-##### ⚠️ DTFX anticipation [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social)](https://twitter.com/StoicTA/status/1768241915521048655) 
+````
+⚠️ DTFX anticipation 
+````
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social)](https://twitter.com/StoicTA/status/1768241915521048655) 
 
 ![img](https://www.tradingview.com/x/mw4yv48O/ "img")
 ```java
