@@ -280,11 +280,12 @@ Why [Bullish Flip] is not working here?
 ___    
 ## `mar15`
 ![img](https://www.tradingview.com/x/ypJRhgPA/ "img")
-````
-🟢 My Trade
-- Origin Of Consolidation 
-- Speed & Lack Of Volume (There is no need for price to go below this low)
-- Look at the [Inducement Leg] && [Standard Deviation Levels]
+````ruby
+🟢 
+- [Origin Of Consolidation] at [Beginning Of The Curve]
+- [Speed & Lack Of Volume] at [Beginning Of The Curve] 
+- There is no need for price to go below this low at [Ending Of The Curve] 
+- Use [Inducement Leg] && [Standard Deviation Levels] for [Managing Trade]
 ````
 ___    
 ## `mar18`
