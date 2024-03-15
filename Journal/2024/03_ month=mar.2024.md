@@ -281,7 +281,7 @@ ___
 ## `mar15`
 ![img](https://www.tradingview.com/x/ypJRhgPA/ "img")
 ````
-🔵 My Trade
+🟢 My Trade
 ````
 ___    
 ## `mar18`
