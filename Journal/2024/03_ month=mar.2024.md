@@ -168,7 +168,7 @@ ___
 ## `mar12`
 ![img](https://www.tradingview.com/x/SdFwXp64/ "img")
 ````
-⚠️ Annotating Charts From Previous Trading Day (from StoicTA)
+⚠️ Annotating Previous Trading Day Charts (from StoicTA)
 ````
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social)](https://twitter.com/StoicTA/status/1767661005545279673)
 
