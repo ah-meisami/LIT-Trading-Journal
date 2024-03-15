@@ -284,6 +284,7 @@ ___
 🟢 My Trade
 - Origin Of Consolidation 
 - Speed & Lack Of Volume (There is no need for price to go below this low)
+- Look at the [Inducement Leg] && [Standard Deviation Levels]
 ````
 ___    
 ## `mar18`
