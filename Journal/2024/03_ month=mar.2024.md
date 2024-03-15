@@ -287,6 +287,10 @@ ___
 - There is no need for price to go below this low at [Ending Of The Curve] 
 - Use [Inducement Leg] && [Standard Deviation Levels] for [Managing Trade]
 ````
+
+
+[The difference between a specialist and a generalist](http://example.com)
+![img](https://toggl.com/blog/wp-content/uploads/2023/01/Generalist-vs-specialist_-What-makes-a-better-hire_.png "img")
 ___    
 ## `mar18`
 ___    
