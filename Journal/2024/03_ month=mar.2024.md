@@ -272,10 +272,11 @@ Why [Bullish Flip] is not working here?
 }
 🟠 Forcing Trade Setup
 ```
-![img](https://www.tradingview.com/x/SdFwXp64/ "img")
+![img](https://www.tradingview.com/x/bo2Vr1Ly/ "img")
 ````
 🟣 Annotating Charts (from StoicTA)
 ````
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social)](https://twitter.com/StoicTA/status/1768372616883065342) 
 ___    
 ## `mar15`
 ___    
