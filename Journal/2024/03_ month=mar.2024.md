@@ -279,6 +279,10 @@ Why [Bullish Flip] is not working here?
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social)](https://twitter.com/StoicTA/status/1768372616883065342) 
 ___    
 ## `mar15`
+![img](https://www.tradingview.com/x/ypJRhgPA/ "img")
+````
+🔵 My Trade
+````
 ___    
 ## `mar18`
 ___    
