@@ -176,19 +176,20 @@ ___
 ![img](https://www.tradingview.com/x/zwnB1Ky2/ "img")
 
 ```java
-$NQ HTF OF respecting Bullish
-$XU HTF OF respecting Bearish
+🟠 After Releasing High Impact News 
+- NQ HTF OF respecting Bullish OF
+- XU HTF OF respecting Bearish OF
 ```
 ___    
 ## `mar13`
 ![img](https://www.tradingview.com/x/xTviG8cq/ "img")
 ```java
-LTF Zoom IN{
+🟠 LTF Zoom IN{
     You See: 
         1. LTF Bullish Order Flow
         2. LTF Bullish Break Of Structure
 } 
-HTF Zoom OUT{
+🟠 HTF Zoom OUT{
     You See:
         1. HTF MAIN Order Flow = Bullish
         2. HTF INTERNAL Order Flow = Bearish
