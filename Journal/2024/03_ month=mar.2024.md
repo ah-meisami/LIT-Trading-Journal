@@ -167,7 +167,10 @@ ___
 ___    
 ## `mar12`
 ![img](https://www.tradingview.com/x/SdFwXp64/ "img")
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Source*StoicTA)](https://twitter.com/StoicTA/status/1767661005545279673)
+````
+⚠️ Annotating Charts From Previous Trading Day (from StoicTA)
+````
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social)](https://twitter.com/StoicTA/status/1767661005545279673)
 
 
 ![img](https://www.tradingview.com/x/zwnB1Ky2/ "img")
