@@ -282,6 +282,8 @@ ___
 ![img](https://www.tradingview.com/x/ypJRhgPA/ "img")
 ````
 🟢 My Trade
+- Origin Of Consolidation 
+- Speed & Lack Of Volume (There is no need for price to go below this low)
 ````
 ___    
 ## `mar18`
