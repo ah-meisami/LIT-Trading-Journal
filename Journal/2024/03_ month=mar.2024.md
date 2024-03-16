@@ -11,22 +11,22 @@ ___
 | [`mar04`](#mar04) | [`MON`](https://www.forexfactory.com/calendar?day=mar04.2024) | `Week 10` ||||
 | [`mar05`](#mar05) | [`TUE`](https://www.forexfactory.com/calendar?day=mar05.2024) | `Week 10` | 🔴 | `10:00`  |  `ISM Services PMI` |
 | [`mar06`](#mar06) | [`WED`](https://www.forexfactory.com/calendar?day=mar06.2024) | `Week 10` | 🔴 | `08:15` `10:00`  | `ADP Non-Farm Employment` `JOLTS Job Openings` |
-| [`mar07`](#mar07) | [`THU`](https://www.forexfactory.com/calendar?day=mar07.2024) | `Week 10` | 🔴 | `08:15` `10:00`  | `Unemployment Claims` |
+| [`mar07`](#mar07) | [`THU`](https://www.forexfactory.com/calendar?day=mar07.2024) | `Week 10` | 🔴 | `08:30` `10:00`  | `Unemployment Claims` |
 | [`mar08`](#mar08) | [`FRI`](https://www.forexfactory.com/calendar?day=mar08.2024) | `Week 10` | 🔴 | `08:30`  |  `NFP` |
 | [`mar11`](#mar11) | [`MON`](https://www.forexfactory.com/calendar?day=mar11.2024) | `Week 11` ||||
 | [`mar12`](#mar12) | [`TUE`](https://www.forexfactory.com/calendar?day=mar12.2024) | `Week 11` | 🔴 | `08:30`  |  `CPI` |
 | [`mar13`](#mar13) | [`WED`](https://www.forexfactory.com/calendar?day=mar13.2024) | `Week 11` ||||
-| [`mar14`](#mar14) | [`THU`](https://www.forexfactory.com/calendar?day=mar14.2024) | `Week 11` | 🔴 | `08:30`  |  `PPI` |
+| [`mar14`](#mar14) | [`THU`](https://www.forexfactory.com/calendar?day=mar14.2024) | `Week 11` | 🔴 | `08:30`  |  `PPI` `Unemployment Claims` |
 | [`mar15`](#mar15) | [`FRI`](https://www.forexfactory.com/calendar?day=mar15.2024) | `Week 11` | 🔴 | `08:30` `10:00`  |  `Empire State Manufacturing Index` `Prelim UoM Consumer Sentiment` |
 | [`mar18`](#mar18) | [`MON`](https://www.forexfactory.com/calendar?day=mar18.2024) | `Week 12` ||||
 | [`mar19`](#mar19) | [`TUE`](https://www.forexfactory.com/calendar?day=mar19.2024) | `Week 12` ||||
-| [`mar20`](#mar20) | [`WED`](https://www.forexfactory.com/calendar?day=mar20.2024) | `Week 12` | 🔴 | `14:00` `14:30`  | |
-| [`mar21`](#mar21) | [`THU`](https://www.forexfactory.com/calendar?day=mar21.2024) | `Week 12` | 🔴 | `08:30` `09:45`  | |
+| [`mar20`](#mar20) | [`WED`](https://www.forexfactory.com/calendar?day=mar20.2024) | `Week 12` | 🔴 | `14:00` `14:30`  | `Federal Funds Rate` `FOMC Press Conference` |
+| [`mar21`](#mar21) | [`THU`](https://www.forexfactory.com/calendar?day=mar21.2024) | `Week 12` | 🔴 | `08:30` `09:45`  | `Unemployment Claims` `Flash Manufacturing PMI` `Flash Services PMI` |
 | [`mar22`](#mar22) | [`FRI`](https://www.forexfactory.com/calendar?day=mar22.2024) | `Week 12` ||||
 | [`mar25`](#mar25) | [`MON`](https://www.forexfactory.com/calendar?day=mar25.2024) | `Week 13` ||||
-| [`mar26`](#mar26) | [`TUE`](https://www.forexfactory.com/calendar?day=mar26.2024) | `Week 13` | 🔴 | `10:00`  | |
+| [`mar26`](#mar26) | [`TUE`](https://www.forexfactory.com/calendar?day=mar26.2024) | `Week 13` | 🔴 | `10:00`  | `CB Consumer Confidence` |
 | [`mar27`](#mar27) | [`WED`](https://www.forexfactory.com/calendar?day=mar27.2024) | `Week 13` ||||
-| [`mar28`](#mar28) | [`THU`](https://www.forexfactory.com/calendar?day=mar28.2024) | `Week 13` | 🔴 | `08:30` `10:00`  | |
+| [`mar28`](#mar28) | [`THU`](https://www.forexfactory.com/calendar?day=mar28.2024) | `Week 13` | 🔴 | `08:30` `10:00`  | `Final GDP q/q` `Unemployment Claims` `Revised UoM Consumer Sentiment` |
 | [`mar29`](#mar29) | [`FRI`](https://www.forexfactory.com/calendar?day=mar29.2024) | `Week 13` | 🔴 | `08:30`  | |
 
 ___    
