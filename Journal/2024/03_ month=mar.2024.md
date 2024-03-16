@@ -8,17 +8,17 @@ ___
 
 | Date | Day | Time | Currency | Impact | Detail |
 | :---: | :---: | :---: | :---: | :---: | :--- |
-| [`mar01`](#mar01) | [`FRI`](https://www.forexfactory.com/calendar?day=mar01.2024) | `10:00` | USD | 🔴 | `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` |
+| [`mar01`](#mar01) | [`FRI`](https://www.forexfactory.com/calendar?day=mar01.2024) | `10:00` | `USD` | 🔴 | `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` |
 | [`mar04`](#mar04) | [`MON`](https://www.forexfactory.com/calendar?day=mar04.2024) |||||
-| [`mar05`](#mar05) | [`TUE`](https://www.forexfactory.com/calendar?day=mar05.2024) | `10:00` | USD | 🔴 | `ISM Services PMI` |
-| [`mar06`](#mar06) | [`WED`](https://www.forexfactory.com/calendar?day=mar05.2024) | `08:15` `10:00` | USD | 🔴 | `` |
-| [`mar07`](#mar07) | [`THU`](https://www.forexfactory.com/calendar?day=mar07.2024) | `08:15` `10:00` | USD | 🔴 | `` |
-| [`mar08`](#mar08) | [`FRI`](https://www.forexfactory.com/calendar?day=mar08.2024) | `08:30` | USD | 🔴 | `NFP` |
+| [`mar05`](#mar05) | [`TUE`](https://www.forexfactory.com/calendar?day=mar05.2024) | `10:00` | `USD` | 🔴 | `ISM Services PMI` |
+| [`mar06`](#mar06) | [`WED`](https://www.forexfactory.com/calendar?day=mar05.2024) | `08:15` `10:00` | `USD` | 🔴 | `` |
+| [`mar07`](#mar07) | [`THU`](https://www.forexfactory.com/calendar?day=mar07.2024) | `08:15` `10:00` | `USD` | 🔴 | `` |
+| [`mar08`](#mar08) | [`FRI`](https://www.forexfactory.com/calendar?day=mar08.2024) | `08:30` | `USD` | 🔴 | `NFP` |
 | [`mar11`](#mar11) | [`MON`](https://www.forexfactory.com/calendar?day=mar11.2024) |||||
-| [`mar12`](#mar12) | [`TUE`](https://www.forexfactory.com/calendar?day=mar12.2024) | `08:30` | USD | 🔴 | CPI |
+| [`mar12`](#mar12) | [`TUE`](https://www.forexfactory.com/calendar?day=mar12.2024) | `08:30` | `USD` | 🔴 | `CPI` |
 | [`mar13`](#mar13) | [`WED`](https://www.forexfactory.com/calendar?day=mar13.2024) |||||
-| [`mar14`](#mar14) | [`THU`](https://www.forexfactory.com/calendar?day=mar14.2024) |||||
-| [`mar15`](#mar15) | [`FRI`](https://www.forexfactory.com/calendar?day=mar15.2024) |||||
+| [`mar14`](#mar14) | [`THU`](https://www.forexfactory.com/calendar?day=mar14.2024) | `08:30` | `USD` | 🔴 | `PPI` |
+| [`mar15`](#mar15) | [`FRI`](https://www.forexfactory.com/calendar?day=mar15.2024) | `08:30` `10:00` | `USD` | 🔴 | `Empire State Manufacturing Index` `Prelim UoM Consumer Sentiment` |
 | [`mar18`](#mar18) | [`MON`](https://www.forexfactory.com/calendar?day=mar18.2024) |||||
 | [`mar19`](#mar19) | [`TUE`](https://www.forexfactory.com/calendar?day=mar19.2024) |||||
 | [`mar20`](#mar20) | [`WED`](https://www.forexfactory.com/calendar?day=mar20.2024) |||||
