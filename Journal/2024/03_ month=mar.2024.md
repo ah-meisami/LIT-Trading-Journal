@@ -16,7 +16,7 @@ ___
 | [`mar07`](#mar07) | [`THU`](https://www.forexfactory.com/calendar?day=mar07.2024) | `08:15` `10:00` | USD | 🔴 | `` |
 | [`mar08`](#mar08) | [`FRI`](https://www.forexfactory.com/calendar?day=mar08.2024) | `08:30` | USD | 🔴 | `NFP` |
 | [`mar11`](#mar11) | [`MON`](https://www.forexfactory.com/calendar?day=mar11.2024) |||||
-| [`mar12`](#mar12) | [`TUE`](https://www.forexfactory.com/calendar?day=mar12.2024) |||||
+| [`mar12`](#mar12) | [`TUE`](https://www.forexfactory.com/calendar?day=mar12.2024) | `08:30` | USD | 🔴 | CPI |
 | [`mar13`](#mar13) | [`WED`](https://www.forexfactory.com/calendar?day=mar13.2024) |||||
 | [`mar14`](#mar14) | [`THU`](https://www.forexfactory.com/calendar?day=mar14.2024) |||||
 | [`mar15`](#mar15) | [`FRI`](https://www.forexfactory.com/calendar?day=mar15.2024) |||||
