@@ -9,9 +9,9 @@ ___
 
 | Date | Day | Time | Currency | Impact | Detail |
 | :---: | :---: | :---: | :---: | :---: | :--- |
-| [`mar01`](#mar01) | FRI | 10:00 | USD | 🔴 | `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` |
-| [`mar04`](#mar04) | MON |||||
-| [`mar05`](#mar05) | TUE | 10:00 | USD | 🔴 | `ISM Services PMI` |
+| [`mar01`](#mar01) | [FRI]([https://www.forexfactory.com/calendar?day=mar01.2024]){:target="_blank"} | 10:00 | USD | 🔴 | `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` |
+| [`mar04`](#mar04) | [MON]([https://www.forexfactory.com/calendar?day=mar04.2024]){:target="_blank"} |||||
+| [`mar05`](#mar05) | [TUE]([https://www.forexfactory.com/calendar?day=mar05.2024]){:target="_blank"} | 10:00 | USD | 🔴 | `ISM Services PMI` |
 ___    
 ![img](https://www.tradingview.com/x/hUEiDInZ/ "img")
 ##### ⚠️ Main Structure = Market Structure based on HTF order flow = bearish
