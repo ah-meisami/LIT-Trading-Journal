@@ -287,6 +287,7 @@ ___
 - There is no need for price to go below this low at [Ending Of The Curve] 
 - Use [Inducement Leg] && [Standard Deviation Levels] for [Managing Trade]
 ````
+![img](https://www.tradingview.com/x/zbvhMEMS/ "img")
 ___    
 ## `mar18`
 ___    
