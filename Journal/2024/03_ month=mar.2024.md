@@ -27,8 +27,7 @@ ___
 | [`mar26`](#mar26) | [`TUE`](https://www.forexfactory.com/calendar?day=mar26.2024) | `Week 13` | 🔴 | `10:00`  | `CB Consumer Confidence` |
 | [`mar27`](#mar27) | [`WED`](https://www.forexfactory.com/calendar?day=mar27.2024) | `Week 13` ||||
 | [`mar28`](#mar28) | [`THU`](https://www.forexfactory.com/calendar?day=mar28.2024) | `Week 13` | 🔴 | `08:30` `10:00`  | `Final GDP q/q` `Unemployment Claims` `Revised UoM Consumer Sentiment` |
-| [`mar29`](#mar29) | [`FRI`](https://www.forexfactory.com/calendar?day=mar29.2024) | `Week 13` | 🔴 | `08:30`  | |
-
+| [`mar29`](#mar29) | [`FRI`](https://www.forexfactory.com/calendar?day=mar29.2024) | `Week 13` | 🔴 | `08:30`  | `Core PCE Price Index m/m` |
 ___    
 ![img](https://www.tradingview.com/x/hUEiDInZ/ "img")
 ##### ⚠️ Main Structure = Market Structure based on HTF order flow = bearish
