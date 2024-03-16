@@ -21,14 +21,14 @@ ___
 | [`mar15`](#mar15) | [`FRI`](https://www.forexfactory.com/calendar?day=mar15.2024) | `08:30` `10:00` | `USD` | 🔴 | `Empire State Manufacturing Index` `Prelim UoM Consumer Sentiment` |
 | [`mar18`](#mar18) | [`MON`](https://www.forexfactory.com/calendar?day=mar18.2024) |||||
 | [`mar19`](#mar19) | [`TUE`](https://www.forexfactory.com/calendar?day=mar19.2024) |||||
-| [`mar20`](#mar20) | [`WED`](https://www.forexfactory.com/calendar?day=mar20.2024) |||||
-| [`mar21`](#mar21) | [`THU`](https://www.forexfactory.com/calendar?day=mar21.2024) |||||
+| [`mar20`](#mar20) | [`WED`](https://www.forexfactory.com/calendar?day=mar20.2024) | `14:00` `14:30` | `USD` | 🔴 ||
+| [`mar21`](#mar21) | [`THU`](https://www.forexfactory.com/calendar?day=mar21.2024) | `08:30` `09:45` | `USD` | 🔴 ||
 | [`mar22`](#mar22) | [`FRI`](https://www.forexfactory.com/calendar?day=mar22.2024) |||||
 | [`mar25`](#mar25) | [`MON`](https://www.forexfactory.com/calendar?day=mar25.2024) |||||
-| [`mar26`](#mar26) | [`TUE`](https://www.forexfactory.com/calendar?day=mar26.2024) |||||
+| [`mar26`](#mar26) | [`TUE`](https://www.forexfactory.com/calendar?day=mar26.2024) | `10:00` | `USD` | 🔴 ||
 | [`mar27`](#mar27) | [`WED`](https://www.forexfactory.com/calendar?day=mar27.2024) |||||
-| [`mar28`](#mar28) | [`THU`](https://www.forexfactory.com/calendar?day=mar28.2024) |||||
-| [`mar29`](#mar29) | [`FRI`](https://www.forexfactory.com/calendar?day=mar29.2024) |||||
+| [`mar28`](#mar28) | [`THU`](https://www.forexfactory.com/calendar?day=mar28.2024) | `08:30` `10:00` | `USD` | 🔴 ||
+| [`mar29`](#mar29) | [`FRI`](https://www.forexfactory.com/calendar?day=mar29.2024) | `08:30` | `USD` | 🔴 ||
 
 ___    
 ![img](https://www.tradingview.com/x/hUEiDInZ/ "img")
