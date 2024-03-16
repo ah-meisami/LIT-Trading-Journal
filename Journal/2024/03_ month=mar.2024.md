@@ -12,7 +12,6 @@ ___
 | [`mar01`](#mar01) | [`FRI`](https://www.forexfactory.com/calendar?day=mar01.2024) | 10:00 | USD | 🔴 | `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` |
 | [`mar04`](#mar04) | [`MON`](https://www.forexfactory.com/calendar?day=mar04.2024) |||||
 | [`mar05`](#mar05) | [`TUE`](https://www.forexfactory.com/calendar?day=mar05.2024) | 10:00 | USD | 🔴 | `ISM Services PMI` |
-
 | [`mar11`](#mar11) | [`MON`](https://www.forexfactory.com/calendar?day=mar11.2024) |||||
 | [`mar13`](#mar13) | [`WED`](https://www.forexfactory.com/calendar?day=mar13.2024) |||||
 | [`mar18`](#mar18) | [`MON`](https://www.forexfactory.com/calendar?day=mar18.2024) |||||
