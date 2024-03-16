@@ -8,9 +8,9 @@ ___
 ___    
 
 
-| Date | Time | Currency | Impact | Detail |
+| Date | Day | Time | Currency | Impact | Detail |
 | --- | --- | --- | --- | --- |
-| ##### [`mar01`](#mar01) | `FRI` 10:00 | USD | 🔴 | `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` |
+| [`mar01`](#mar01) | FRI | 10:00 | USD | 🔴 | `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` |
 
 ___    
 ![img](https://www.tradingview.com/x/hUEiDInZ/ "img")
