@@ -105,7 +105,7 @@ ___
 6. HTF 3 times mitigation = LRLR  
 ```
 ___    
-## `mar04` [mar2024](#mar2024)
+## `mar04`
 ![mar04](https://www.tradingview.com/x/6HnCC5DC/ "mar04")
 
 ```c
