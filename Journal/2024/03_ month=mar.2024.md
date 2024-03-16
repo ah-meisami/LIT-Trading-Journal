@@ -9,9 +9,9 @@ ___
 
 
 | Date | Day | Time | Currency | Impact | Detail |
-| :---: | :---: | :---: | :---: | :---: | ---: |
+| :---: | :---: | :---: | :---: | :---: | :--- |
 | [`mar01`](#mar01) | FRI | 10:00 | USD | 🔴 | `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` |
-
+| [`mar04`](#mar04) | MON |||||
 ___    
 ![img](https://www.tradingview.com/x/hUEiDInZ/ "img")
 ##### ⚠️ Main Structure = Market Structure based on HTF order flow = bearish
