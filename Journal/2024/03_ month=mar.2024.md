@@ -1,8 +1,8 @@
 [`WyckoffRules`](https://medium.com/@Blocksavant/composite-man-ca18c9d2d5a5)
 | WyckoffRules | Detail |
 | :---: | :--- |
-| WyckoffRules[1] | the market never behave in the same way twice.   |
-| WyckoffRules[2] | context is everything in the financial markets.  |
+| `1` | `the market never behave in the same way twice.`   |
+| `2` | `context is everything in the financial markets.`  |
 ___    
 [`mar2024`](https://www.forexfactory.com/calendar?month=mar.2024)
 | Date | Day | Week | Impact | Time | Detail | 
