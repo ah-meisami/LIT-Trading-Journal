@@ -9,7 +9,7 @@ ___
 
 
 | Date | Day | Time | Currency | Impact | Detail |
-| --- | --- | --- | :---: | :---: | --- |
+| :---: | :---: | :---: | :---: | :---: | ---: |
 | [`mar01`](#mar01) | FRI | 10:00 | USD | 🔴 | `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` |
 
 ___    
