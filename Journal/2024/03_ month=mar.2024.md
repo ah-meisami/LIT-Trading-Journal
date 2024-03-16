@@ -10,34 +10,8 @@ ___
 
 | Date | Time | Currency | Impact | Detail |
 | --- | --- | --- | --- | --- |
-| [`mar01`](#mar01) | `FRI` 10:00 | 🔴 | `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` |
-| ##### [`mar01`](#mar01) | `FRI` 10:00 | 🔴 | `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` |
+| ##### [`mar01`](#mar01) | `FRI` 10:00 | USD | 🔴 | `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` |
 
-[comment]: ##### [`mar01`](#mar01) [https://www.forexfactory.com/calendar?day=mar01.2024] `FRI` 🔴 `10:00` `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` 
-___    
-##### [`mar04`](#mar04) [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`    
-##### [`mar05`](#mar05) [https://www.forexfactory.com/calendar?day=mar05.2024] `TUE` 🔴 [10:00]    
-##### [`mar06`](#mar06) [https://www.forexfactory.com/calendar?day=mar06.2024] `WED` 🔴 [08:15] [10:00]    
-##### [`mar07`](#mar07) [https://www.forexfactory.com/calendar?day=mar07.2024] `THU` 🔴 [08:15] [10:00]     
-##### [`mar08`](#mar08) [https://www.forexfactory.com/calendar?day=mar08.2024] `FRI` 🔴 [08:30] **NFP**      
-___    
-##### [`mar11`](#mar11) [https://www.forexfactory.com/calendar?day=mar11.2024] `MON`    
-##### [`mar12`](#mar12) [https://www.forexfactory.com/calendar?day=mar12.2024] `TUE` 🔴 [08:30] **CPI**    
-##### [`mar13`](#mar13) [https://www.forexfactory.com/calendar?day=mar13.2024] `WED`    
-##### [`mar14`](#mar14) [https://www.forexfactory.com/calendar?day=mar14.2024] `THU` 🔴 [08:30] **PPI**    
-##### [`mar15`](#mar15) [https://www.forexfactory.com/calendar?day=mar15.2024] `FRI` 🔴 [08:30] [10:00]    
-___    
-##### [`mar18`](#mar18) [https://www.forexfactory.com/calendar?day=mar18.2024] `MON`    
-##### [`mar19`](#mar19) [https://www.forexfactory.com/calendar?day=mar19.2024] `TUE`    
-##### [`mar20`](#mar20) [https://www.forexfactory.com/calendar?day=mar20.2024] `WED` 🔴 [14:00] [14:30] **Fund Rate**    
-##### [`mar21`](#mar21) [https://www.forexfactory.com/calendar?day=mar21.2024] `THU` 🔴 [08:30] UnEmp. [09:45] PMI    
-##### [`mar22`](#mar22) [https://www.forexfactory.com/calendar?day=mar22.2024] `FRI`    
-___    
-##### [`mar25`](#mar25) [https://www.forexfactory.com/calendar?day=mar25.2024] `MON`    
-##### [`mar26`](#mar26) [https://www.forexfactory.com/calendar?day=mar26.2024] `TUE` 🔴 [10:00]    
-##### [`mar27`](#mar27) [https://www.forexfactory.com/calendar?day=mar27.2024] `WED`    
-##### [`mar28`](#mar28) [https://www.forexfactory.com/calendar?day=mar28.2024] `THU` 🔴 [08:30] [10:00]    
-##### [`mar29`](#mar29) [https://www.forexfactory.com/calendar?day=mar29.2024] `FRI` 🔴 [08:30]    
 ___    
 ![img](https://www.tradingview.com/x/hUEiDInZ/ "img")
 ##### ⚠️ Main Structure = Market Structure based on HTF order flow = bearish
