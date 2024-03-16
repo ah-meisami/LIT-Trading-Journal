@@ -24,7 +24,7 @@ ___
 ##### [`mar18`](#mar18) [https://www.forexfactory.com/calendar?day=mar18.2024] `MON`    
 ##### [`mar19`](#mar19) [https://www.forexfactory.com/calendar?day=mar19.2024] `TUE`    
 ##### [`mar20`](#mar20) [https://www.forexfactory.com/calendar?day=mar20.2024] `WED` 🔴 [14:00] [14:30] **Fund Rate**    
-##### [`mar21`](#mar21) [https://www.forexfactory.com/calendar?day=mar21.2024] `THU` 🔴 [08:30] [09:45]    
+##### [`mar21`](#mar21) [https://www.forexfactory.com/calendar?day=mar21.2024] `THU` 🔴 [08:30] UnEmp. [09:45] PMI    
 ##### [`mar22`](#mar22) [https://www.forexfactory.com/calendar?day=mar22.2024] `FRI`    
 ___    
 ##### [`mar25`](#mar25) [https://www.forexfactory.com/calendar?day=mar25.2024] `MON`    
