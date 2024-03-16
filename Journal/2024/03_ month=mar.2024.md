@@ -10,10 +10,10 @@ ___
 
 | Date | Time | Currency | Impact | Detail |
 | --- | --- | --- | --- | --- |
-| ##### [`mar01`](#mar01) | `FRI` 10:00 | 🔴 | `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` |
+| [`mar01`](#mar01) | `FRI` 10:00 | 🔴 | `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` |
 | ##### [`mar01`](#mar01) | `FRI` 10:00 | 🔴 | `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` |
 
-##### [`mar01`](#mar01) [https://www.forexfactory.com/calendar?day=mar01.2024] `FRI` 🔴 `10:00` `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` 
+[comment]: ##### [`mar01`](#mar01) [https://www.forexfactory.com/calendar?day=mar01.2024] `FRI` 🔴 `10:00` `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` 
 ___    
 ##### [`mar04`](#mar04) [https://www.forexfactory.com/calendar?day=mar04.2024] `MON`    
 ##### [`mar05`](#mar05) [https://www.forexfactory.com/calendar?day=mar05.2024] `TUE` 🔴 [10:00]    
