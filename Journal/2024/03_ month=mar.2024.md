@@ -17,9 +17,9 @@ ___
 | [`mar13`](#mar13) | [`WED`](https://www.forexfactory.com/calendar?day=mar13.2024) |||||
 | [`mar18`](#mar18) | [`MON`](https://www.forexfactory.com/calendar?day=mar18.2024) |||||
 | [`mar19`](#mar19) | [`TUE`](https://www.forexfactory.com/calendar?day=mar19.2024) |||||
-| [`mar22`](#mar22) | [`TUE`](https://www.forexfactory.com/calendar?day=mar22.2024) |||||
+| [`mar22`](#mar22) | [`FRI`](https://www.forexfactory.com/calendar?day=mar22.2024) |||||
 | [`mar25`](#mar25) | [`MON`](https://www.forexfactory.com/calendar?day=mar25.2024) |||||
-| [`mar27`](#mar27) | [`MON`](https://www.forexfactory.com/calendar?day=mar27.2024) |||||
+| [`mar27`](#mar27) | [`WED`](https://www.forexfactory.com/calendar?day=mar27.2024) |||||
 
 ___    
 ![img](https://www.tradingview.com/x/hUEiDInZ/ "img")
