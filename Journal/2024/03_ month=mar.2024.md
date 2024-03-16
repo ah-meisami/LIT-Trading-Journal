@@ -12,17 +12,24 @@ ___
 | [`mar01`](#mar01) | [`FRI`](https://www.forexfactory.com/calendar?day=mar01.2024) | `10:00` | USD | 🔴 | `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` |
 | [`mar04`](#mar04) | [`MON`](https://www.forexfactory.com/calendar?day=mar04.2024) |||||
 | [`mar05`](#mar05) | [`TUE`](https://www.forexfactory.com/calendar?day=mar05.2024) | `10:00` | USD | 🔴 | `ISM Services PMI` |
-| [`mar06`](#mar06) | [`WED`](https://www.forexfactory.com/calendar?day=mar05.2024) | `10:00` | USD | 🔴 | `ISM Services PMI` |
-| [`mar07`](#mar07) | [`THU`](https://www.forexfactory.com/calendar?day=mar07.2024) | `10:00` | USD | 🔴 | `ISM Services PMI` |
-| [`mar08`](#mar08) | [`FRI`](https://www.forexfactory.com/calendar?day=mar08.2024) | `10:00` | USD | 🔴 | `ISM Services PMI` |
-
+| [`mar06`](#mar06) | [`WED`](https://www.forexfactory.com/calendar?day=mar05.2024) | `08:15` `10:00` | USD | 🔴 | `` |
+| [`mar07`](#mar07) | [`THU`](https://www.forexfactory.com/calendar?day=mar07.2024) | `08:15` `10:00` | USD | 🔴 | `` |
+| [`mar08`](#mar08) | [`FRI`](https://www.forexfactory.com/calendar?day=mar08.2024) | `08:30` | USD | 🔴 | `NFP` |
 | [`mar11`](#mar11) | [`MON`](https://www.forexfactory.com/calendar?day=mar11.2024) |||||
+| [`mar11`](#mar12) | [`MON`](https://www.forexfactory.com/calendar?day=mar11.2024) |||||
 | [`mar13`](#mar13) | [`WED`](https://www.forexfactory.com/calendar?day=mar13.2024) |||||
+| [`mar13`](#mar14) | [`WED`](https://www.forexfactory.com/calendar?day=mar13.2024) |||||
+| [`mar13`](#mar15) | [`WED`](https://www.forexfactory.com/calendar?day=mar13.2024) |||||
 | [`mar18`](#mar18) | [`MON`](https://www.forexfactory.com/calendar?day=mar18.2024) |||||
 | [`mar19`](#mar19) | [`TUE`](https://www.forexfactory.com/calendar?day=mar19.2024) |||||
+| [`mar19`](#mar20) | [`TUE`](https://www.forexfactory.com/calendar?day=mar19.2024) |||||
+| [`mar19`](#mar21) | [`TUE`](https://www.forexfactory.com/calendar?day=mar19.2024) |||||
 | [`mar22`](#mar22) | [`FRI`](https://www.forexfactory.com/calendar?day=mar22.2024) |||||
 | [`mar25`](#mar25) | [`MON`](https://www.forexfactory.com/calendar?day=mar25.2024) |||||
+| [`mar25`](#mar26) | [`MON`](https://www.forexfactory.com/calendar?day=mar25.2024) |||||
 | [`mar27`](#mar27) | [`WED`](https://www.forexfactory.com/calendar?day=mar27.2024) |||||
+| [`mar27`](#mar28) | [`WED`](https://www.forexfactory.com/calendar?day=mar27.2024) |||||
+| [`mar27`](#mar29) | [`WED`](https://www.forexfactory.com/calendar?day=mar27.2024) |||||
 
 ___    
 ![img](https://www.tradingview.com/x/hUEiDInZ/ "img")
