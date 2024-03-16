@@ -288,6 +288,8 @@ ___
 - Use [Inducement Leg] && [Standard Deviation Levels] for [Managing Trade]
 ````
 ![img](https://www.tradingview.com/x/zbvhMEMS/ "img")
+
+![img](https://www.tradingview.com/x/5Jy9HOh0/ "img")
 ___    
 ## `mar18`
 ___    
