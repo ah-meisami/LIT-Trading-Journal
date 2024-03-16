@@ -16,20 +16,20 @@ ___
 | [`mar07`](#mar07) | [`THU`](https://www.forexfactory.com/calendar?day=mar07.2024) | `08:15` `10:00` | USD | 🔴 | `` |
 | [`mar08`](#mar08) | [`FRI`](https://www.forexfactory.com/calendar?day=mar08.2024) | `08:30` | USD | 🔴 | `NFP` |
 | [`mar11`](#mar11) | [`MON`](https://www.forexfactory.com/calendar?day=mar11.2024) |||||
-| [`mar12`](#mar12) | [`MON`](https://www.forexfactory.com/calendar?day=mar12.2024) |||||
+| [`mar12`](#mar12) | [`TUE`](https://www.forexfactory.com/calendar?day=mar12.2024) |||||
 | [`mar13`](#mar13) | [`WED`](https://www.forexfactory.com/calendar?day=mar13.2024) |||||
-| [`mar14`](#mar14) | [`WED`](https://www.forexfactory.com/calendar?day=mar14.2024) |||||
-| [`mar15`](#mar15) | [`WED`](https://www.forexfactory.com/calendar?day=mar15.2024) |||||
+| [`mar14`](#mar14) | [`THU`](https://www.forexfactory.com/calendar?day=mar14.2024) |||||
+| [`mar15`](#mar15) | [`FRI`](https://www.forexfactory.com/calendar?day=mar15.2024) |||||
 | [`mar18`](#mar18) | [`MON`](https://www.forexfactory.com/calendar?day=mar18.2024) |||||
 | [`mar19`](#mar19) | [`TUE`](https://www.forexfactory.com/calendar?day=mar19.2024) |||||
-| [`mar20`](#mar20) | [`TUE`](https://www.forexfactory.com/calendar?day=mar20.2024) |||||
-| [`mar21`](#mar21) | [`TUE`](https://www.forexfactory.com/calendar?day=mar21.2024) |||||
+| [`mar20`](#mar20) | [`WED`](https://www.forexfactory.com/calendar?day=mar20.2024) |||||
+| [`mar21`](#mar21) | [`THU`](https://www.forexfactory.com/calendar?day=mar21.2024) |||||
 | [`mar22`](#mar22) | [`FRI`](https://www.forexfactory.com/calendar?day=mar22.2024) |||||
 | [`mar25`](#mar25) | [`MON`](https://www.forexfactory.com/calendar?day=mar25.2024) |||||
-| [`mar26`](#mar26) | [`MON`](https://www.forexfactory.com/calendar?day=mar26.2024) |||||
+| [`mar26`](#mar26) | [`TUE`](https://www.forexfactory.com/calendar?day=mar26.2024) |||||
 | [`mar27`](#mar27) | [`WED`](https://www.forexfactory.com/calendar?day=mar27.2024) |||||
-| [`mar28`](#mar28) | [`WED`](https://www.forexfactory.com/calendar?day=mar28.2024) |||||
-| [`mar29`](#mar29) | [`WED`](https://www.forexfactory.com/calendar?day=mar29.2024) |||||
+| [`mar28`](#mar28) | [`THU`](https://www.forexfactory.com/calendar?day=mar28.2024) |||||
+| [`mar29`](#mar29) | [`FRI`](https://www.forexfactory.com/calendar?day=mar29.2024) |||||
 
 ___    
 ![img](https://www.tradingview.com/x/hUEiDInZ/ "img")
