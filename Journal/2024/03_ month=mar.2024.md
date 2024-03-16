@@ -10,7 +10,7 @@ ___
 | [`mar01`](#mar01) | [`FRI`](https://www.forexfactory.com/calendar?day=mar01.2024) | `Week 09` | 🔴 | `10:00`  |  `ISM Manufacturing PMI` `Revised UoM Consumer Sentiment` |
 | [`mar04`](#mar04) | [`MON`](https://www.forexfactory.com/calendar?day=mar04.2024) | `Week 10` ||||
 | [`mar05`](#mar05) | [`TUE`](https://www.forexfactory.com/calendar?day=mar05.2024) | `Week 10` | 🔴 | `10:00`  |  `ISM Services PMI` |
-| [`mar06`](#mar06) | [`WED`](https://www.forexfactory.com/calendar?day=mar05.2024) | `Week 10` | 🔴 | `08:15` `10:00`  |  `` |
+| [`mar06`](#mar06) | [`WED`](https://www.forexfactory.com/calendar?day=mar06.2024) | `Week 10` | 🔴 | `08:15` `10:00`  |  `ISM Services PMI` |
 | [`mar07`](#mar07) | [`THU`](https://www.forexfactory.com/calendar?day=mar07.2024) | `Week 10` | 🔴 | `08:15` `10:00`  |  `` |
 | [`mar08`](#mar08) | [`FRI`](https://www.forexfactory.com/calendar?day=mar08.2024) | `Week 10` | 🔴 | `08:30`  |  `NFP` |
 | [`mar11`](#mar11) | [`MON`](https://www.forexfactory.com/calendar?day=mar11.2024) | `Week 11` ||||
