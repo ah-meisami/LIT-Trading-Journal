@@ -288,10 +288,7 @@ ___
 ![img](https://www.tradingview.com/x/5Jy9HOh0/ "img")
 ___    
 ## `mar18`
-| `XU Setup:` 
-`HTF SSL cleared.` 
-`LTF bullish flip takes time 4h in consolidation.` 
-`LTF reaching its target after 4h.` | 
+| `XU Setup:` `HTF SSL cleared.` `LTF bullish flip takes time 4h in consolidation.` `LTF reaching its target after 4h.` | 
 | :---: |
 | ![img](https://www.tradingview.com/x/2FdePLsR/ "img") |
 | ![img](https://www.tradingview.com/x/em85CnKh/ "img") |
@@ -300,6 +297,7 @@ ___
 | `NQM2024 vs NQ!:` `NQM2024 SSL cleared but there is no such leg on NQ!` |
 | :---: |
 | ![img](https://www.tradingview.com/x/8LJu80Ey/ "img") |
+| ![img](https://www.tradingview.com/x/OnviV5uz/ "img") |
 ___    
 ## `mar19`
 ___    
