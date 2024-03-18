@@ -291,6 +291,8 @@ ___
 ![img](https://www.tradingview.com/x/2FdePLsR/ "img")
 
 ![img](https://www.tradingview.com/x/2rEs1ohY/ "img")
+
+![img](https://www.tradingview.com/x/KVmmJhEG/ "img")
 ___    
 ## `mar19`
 ___    
