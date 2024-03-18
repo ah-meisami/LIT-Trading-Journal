@@ -293,6 +293,7 @@ ___
 | XU | ![img](https://www.tradingview.com/x/2FdePLsR/ "img") |
 | XU | ![img](https://www.tradingview.com/x/em85CnKh/ "img") |
 | XU | ![img](https://www.tradingview.com/x/cmNktH0P/ "img") |
+| NQM2024 | ![img](https://www.tradingview.com/x/pADMLnmA/ "img") |
 ___    
 ## `mar19`
 ___    
