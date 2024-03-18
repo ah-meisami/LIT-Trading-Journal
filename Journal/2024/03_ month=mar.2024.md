@@ -297,7 +297,7 @@ ___
 | `NQM2024 vs NQ!:` `NQM2024 SSL cleared but there is no such leg on NQ!` |
 | :---: |
 | ![img](https://www.tradingview.com/x/8LJu80Ey/ "img") |
-| ![img](https://www.tradingview.com/x/OnviV5uz/ "img") |
+| ![img](https://www.tradingview.com/x/HL7ctLNK/ "img") |
 ___    
 ## `mar19`
 ___    
