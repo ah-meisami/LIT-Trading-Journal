@@ -288,13 +288,11 @@ ___
 ![img](https://www.tradingview.com/x/5Jy9HOh0/ "img")
 ___    
 ## `mar18`
-![img](https://www.tradingview.com/x/2FdePLsR/ "img")
-
-![img](https://www.tradingview.com/x/2rEs1ohY/ "img")
-
-![img](https://www.tradingview.com/x/em85CnKh/ "img")
-
-![img](https://www.tradingview.com/x/cmNktH0P/ "img")
+| Asset | Img | 
+| :---: | :---: |
+| XU | ![img](https://www.tradingview.com/x/2FdePLsR/ "img") |
+| XU | ![img](https://www.tradingview.com/x/em85CnKh/ "img") |
+| XU | ![img](https://www.tradingview.com/x/cmNktH0P/ "img") |
 ___    
 ## `mar19`
 ___    
