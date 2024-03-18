@@ -288,12 +288,13 @@ ___
 ![img](https://www.tradingview.com/x/5Jy9HOh0/ "img")
 ___    
 ## `mar18`
-| Asset | Img | 
-| :---: | :---: |
-| XU | ![img](https://www.tradingview.com/x/2FdePLsR/ "img") |
-| XU | ![img](https://www.tradingview.com/x/em85CnKh/ "img") |
-| XU | ![img](https://www.tradingview.com/x/cmNktH0P/ "img") |
-| NQM2024 | ![img](https://www.tradingview.com/x/pADMLnmA/ "img") |
+| XU Setup: HTF SSL cleared. LTF bullish flip takes 4h in consolidation. LTF reaching its target after 4h. | 
+| ![img](https://www.tradingview.com/x/2FdePLsR/ "img") |
+| ![img](https://www.tradingview.com/x/em85CnKh/ "img") |
+| ![img](https://www.tradingview.com/x/cmNktH0P/ "img") |
+
+| NQM2024 vs NQ! : NQM2024 SSL cleared but there is no such leg on NQ!|
+| ![img](https://www.tradingview.com/x/pADMLnmA/ "img") |
 ___    
 ## `mar19`
 ___    
