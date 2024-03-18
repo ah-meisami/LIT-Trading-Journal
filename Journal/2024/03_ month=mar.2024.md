@@ -292,7 +292,7 @@ ___
 
 ![img](https://www.tradingview.com/x/2rEs1ohY/ "img")
 
-![img](https://www.tradingview.com/x/KVmmJhEG/ "img")
+![img](https://www.tradingview.com/x/em85CnKh/ "img")
 ___    
 ## `mar19`
 ___    
