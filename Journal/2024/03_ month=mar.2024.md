@@ -307,7 +307,7 @@ ___
 | `1m` |
 | ![img](https://www.tradingview.com/x/nQ1FlO88/ "img") |
 
-| `XU` |
+| $\color{red}{\textsf{`XU`}}$ |
 | :---: |
 | `5m Overall Img` |
 | ![img](https://www.tradingview.com/x/GveKyl08/ "img") |
