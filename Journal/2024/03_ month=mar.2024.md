@@ -302,9 +302,9 @@ ___
 ## `mar19`
 | `NQM2024` |
 | :---: |
-| 5m Overall Img |
+| `5m Overall Img` |
 | ![img](https://www.tradingview.com/x/0ML4TafU/ "img") |
-| 1m |
+| `1m` |
 | ![img](https://www.tradingview.com/x/nQ1FlO88/ "img") |
 
 ___    
