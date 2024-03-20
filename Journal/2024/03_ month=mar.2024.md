@@ -300,6 +300,11 @@ ___
 | ![img](https://www.tradingview.com/x/9in8GjmV/ "img") |
 ___    
 ## `mar19`
+| `NQM2024` |
+| :---: |
+| ![img](https://www.tradingview.com/x/0ML4TafU/ "img") |
+| ![img](https://www.tradingview.com/x/nQ1FlO88/ "img") |
+
 ___    
 ## `mar20`
 ___    
