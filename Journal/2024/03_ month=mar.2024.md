@@ -327,8 +327,7 @@ ___
 ## `mar22`
 | `XU` |
 | :---: |
-| `I was wrong.` `Market is in consolidation mode not trending mode.` `every tap & DB is incorrect in this pic` \
- `try to understand when market enter consolidation mode` |
+| `I was wrong.` `Market is in consolidation mode not trending mode.` <br> `every tap & DB is incorrect in this pic` `try to understand when market enter consolidation mode` |
 | ![img](https://www.tradingview.com/x/NFA6TTlm/ "img") |
 ___    
 ## `mar25`
