@@ -325,6 +325,10 @@ ___
 | ![img](https://www.tradingview.com/x/8pbyyLGb/ "img") |
 ___    
 ## `mar22`
+| `XU` |
+| :---: |
+| `I was wrong. Market is in consolidation mode not trending. (every tap & DB was incorrect)` `try to understand when market enter consolidation mode` |
+| ![img](https://www.tradingview.com/x/NFA6TTlm/ "img") |
 ___    
 ## `mar25`
 ___    
