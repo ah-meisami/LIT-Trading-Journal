@@ -12,3 +12,10 @@ do not trade inside the structure if you do not know who to be profitable outsid
 
 
 [https://www.slickcharts.com/dowjones]
+
+___
+7. The Algorithm Explained
+
+`21:10` 
+- if we fail to run the LOW before the move back up
+- that makes this high a WEAK HIGH, and we run it.

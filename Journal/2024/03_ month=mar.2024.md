@@ -313,6 +313,10 @@ ___
 | ![img](https://www.tradingview.com/x/GveKyl08/ "img") |
 ___    
 ## `mar20`
+| `XU` |
+| :---: |
+| `1m Overall Img` |
+| ![img](https://www.tradingview.com/x/CbFHYjHx/ "img") |
 ___    
 ## `mar21`
 ___    
