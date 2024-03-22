@@ -320,7 +320,7 @@ ___
 | `1m Overall Img` |
 | ![img](https://www.tradingview.com/x/CbFHYjHx/ "img") |
 | `1m Overall Img` |
-| ![img](https://www.tradingview.com/x/QfuXYgA0/ "img") |
+| ![img](https://www.tradingview.com/x/8pbyyLGb/ "img") |
 ___    
 ## `mar22`
 ___    
