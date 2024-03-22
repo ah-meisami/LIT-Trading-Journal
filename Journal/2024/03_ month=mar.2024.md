@@ -331,7 +331,7 @@ ___
 | ![img](https://www.tradingview.com/x/NFA6TTlm/ "img") |
 | `🟢 Base on previous Day Move, My Expectation was AMD, But Market Reality was MMBM.` |
 | ![img](https://www.tradingview.com/x/QJr3MVB5/ "img") |
-| **THU:** `1. HTF  Respecting High 2. HTF Mitigation & Rejection 3. LTF Liquidity Grab` <br> **FRI** `1. HTF Respecting Low 2. HTF Mitigation & Rejection 3. HTF Liquidity Grab (Previous Day Low)` |
+| `1. HTF  Respecting High` `2. HTF Mitigation & Rejection` `3. LTF Liquidity Grab` <br> `1. HTF Respecting Low` `2. HTF Mitigation & Rejection` `3. HTF Liquidity Grab (Previous Day Low)` |
 | ![img](https://www.tradingview.com/x/fPn0tan2/ "img") |
 ___    
 ## `mar25`
