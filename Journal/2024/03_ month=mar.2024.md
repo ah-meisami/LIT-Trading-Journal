@@ -319,6 +319,8 @@ ___
 | :---: |
 | `1m Overall Img` |
 | ![img](https://www.tradingview.com/x/CbFHYjHx/ "img") |
+| `1m Overall Img` |
+| ![img](https://www.tradingview.com/x/QfuXYgA0/ "img") |
 ___    
 ## `mar22`
 ___    
