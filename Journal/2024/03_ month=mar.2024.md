@@ -329,6 +329,8 @@ ___
 | :---: |
 | `I was wrong.` `Market is in consolidation mode not trending mode.` <br> `every tap & DB is incorrect in this pic` `try to understand when market enter consolidation mode` |
 | ![img](https://www.tradingview.com/x/NFA6TTlm/ "img") |
+| `🟢 Base on previous Day Move, My Expectation was AMD, But Market Reality was MMBM.` |
+| ![img](https://www.tradingview.com/x/NFA6TTlm/ "j7ryyroD") |
 ___    
 ## `mar25`
 ___    
