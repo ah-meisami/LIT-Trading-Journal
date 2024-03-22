@@ -319,7 +319,7 @@ ___
 | :---: |
 | `1m Overall Img` |
 | ![img](https://www.tradingview.com/x/CbFHYjHx/ "img") |
-| `1m Overall Img` |
+| `It takes 2h 30m to detect that order flow is bearish` |
 | ![img](https://www.tradingview.com/x/8pbyyLGb/ "img") |
 ___    
 ## `mar22`
