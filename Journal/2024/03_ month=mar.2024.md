@@ -319,10 +319,8 @@ ___
 | :---: |
 | `1m Overall Img` |
 | ![img](https://www.tradingview.com/x/CbFHYjHx/ "img") |
-
 | `order flow is bullish in london session` |
 | ![img](https://www.tradingview.com/x/arOzTTDV/ "img") |
-
 | `It takes 2h 30m to detect that order flow is bearish` |
 | ![img](https://www.tradingview.com/x/8pbyyLGb/ "img") |
 ___    
