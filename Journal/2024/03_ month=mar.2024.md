@@ -22,7 +22,7 @@ ___
 | [`mar19`](#mar19) | [`TUE`](https://www.forexfactory.com/calendar?day=mar19.2024) | `Week 12` ||||
 | [`mar20`](#mar20) | [`WED`](https://www.forexfactory.com/calendar?day=mar20.2024) | `Week 12` | 🔴 | `14:00` `14:30`  | `Federal Funds Rate` `FOMC Press Conference` |
 | [`mar21`](#mar21) | [`THU`](https://www.forexfactory.com/calendar?day=mar21.2024) | `Week 12` | 🔴 | `08:30` `09:45`  | `Unemployment Claims` `Flash Manufacturing PMI` `Flash Services PMI` |
-| [`mar22`](#mar22) | [`FRI`](https://www.forexfactory.com/calendar?day=mar22.2024) | `Week 12` ||||
+| [`mar22`](#mar22) | [`FRI`](https://www.forexfactory.com/calendar?day=mar22.2024) | `Week 12` | 🔴 | `09:00` | `Fed Chair Powell Speaks` |
 | [`mar25`](#mar25) | [`MON`](https://www.forexfactory.com/calendar?day=mar25.2024) | `Week 13` ||||
 | [`mar26`](#mar26) | [`TUE`](https://www.forexfactory.com/calendar?day=mar26.2024) | `Week 13` | 🔴 | `10:00`  | `CB Consumer Confidence` |
 | [`mar27`](#mar27) | [`WED`](https://www.forexfactory.com/calendar?day=mar27.2024) | `Week 13` ||||
