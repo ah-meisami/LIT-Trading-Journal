@@ -36,6 +36,9 @@ ___
 | [`apr24`](#mar24) | [`WED`](https://www.forexfactory.com/calendar?day=apr24.2024) | `Week 17` ||||
 | [`apr25`](#apr25) | [`THU`](https://www.forexfactory.com/calendar?day=apr25.2024) | `Week 17` | 🔴 | `08:30` `10:00` ||
 | [`apr26`](#apr26) | [`FRI`](https://www.forexfactory.com/calendar?day=apr26.2024) | `Week 17` | 🔴 | `08:30` `10:00` ||
+
+| Date | Day | Week | Impact | Time | Detail | 
+| :---: | :---: | :---: | :---: | :---: | :--- |
 | [`apr29`](#mar29) | [`MON`](https://www.forexfactory.com/calendar?day=apr29.2024) | `Week 18` ||||
 | [`apr30`](#apr30) | [`TUE`](https://www.forexfactory.com/calendar?day=apr30.2024) | `Week 18` | 🔴 | `08:30` `10:00` ||
 ___    
