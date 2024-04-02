@@ -12,16 +12,25 @@ ___
 | [`apr03`](#apr03) | [`WED`](https://www.forexfactory.com/calendar?day=apr03.2024) | `Week 14` | 🔴 | `08:15` `10:00` `12:10` ||
 | [`apr04`](#apr04) | [`THU`](https://www.forexfactory.com/calendar?day=apr04.2024) | `Week 14` | 🔴 | `08:30`  ||
 | [`apr05`](#apr05) | [`FRI`](https://www.forexfactory.com/calendar?day=apr05.2024) | `Week 14` | 🔴 | `08:30`  |  `NFP` |
+
+| Date | Day | Week | Impact | Time | Detail | 
+| :---: | :---: | :---: | :---: | :---: | :--- |
 | [`apr08`](#mar08) | [`MON`](https://www.forexfactory.com/calendar?day=apr08.2024) | `Week 15` ||||
 | [`apr09`](#mar09) | [`TUE`](https://www.forexfactory.com/calendar?day=apr09.2024) | `Week 15` ||||
 | [`apr10`](#apr10) | [`WED`](https://www.forexfactory.com/calendar?day=apr10.2024) | `Week 15` | 🔴 | `08:30` `14:00` | `CPI` |
 | [`apr11`](#apr11) | [`THU`](https://www.forexfactory.com/calendar?day=apr11.2024) | `Week 15` | 🔴 | `08:30` `13:01` | `PPI` |
 | [`apr12`](#apr12) | [`FRI`](https://www.forexfactory.com/calendar?day=apr12.2024) | `Week 15` | 🔴 | `10:00`  ||
+
+| Date | Day | Week | Impact | Time | Detail | 
+| :---: | :---: | :---: | :---: | :---: | :--- |
 | [`apr15`](#apr15) | [`MON`](https://www.forexfactory.com/calendar?day=apr15.2024) | `Week 16` | 🔴 | `10:00`  ||
 | [`apr16`](#mar16) | [`TUE`](https://www.forexfactory.com/calendar?day=apr16.2024) | `Week 16` ||||
 | [`apr17`](#mar17) | [`WED`](https://www.forexfactory.com/calendar?day=apr17.2024) | `Week 16` ||||
 | [`apr18`](#apr18) | [`THU`](https://www.forexfactory.com/calendar?day=apr18.2024) | `Week 16` | 🔴 | `08:30` ||
 | [`apr19`](#apr19) | [`FRI`](https://www.forexfactory.com/calendar?day=apr19.2024) | `Week 16` | 🔴 | `Tentative`  ||
+
+| Date | Day | Week | Impact | Time | Detail | 
+| :---: | :---: | :---: | :---: | :---: | :--- |
 | [`apr22`](#mar22) | [`MON`](https://www.forexfactory.com/calendar?day=apr22.2024) | `Week 17` ||||
 | [`apr23`](#apr23) | [`TUE`](https://www.forexfactory.com/calendar?day=apr23.2024) | `Week 17` | 🔴 | `09:45`  ||
 | [`apr24`](#mar24) | [`WED`](https://www.forexfactory.com/calendar?day=apr24.2024) | `Week 17` ||||
